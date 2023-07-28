@@ -1,0 +1,174 @@
+$fullwidth: 100%;
+$faqs: faqs;
+$wrapper: wrapper;
+$colorSeachInput: rgba(76, 78, 100, 0.54);
+
+$text-aligns: (
+    'left': left,
+    'right': right,
+    'center': center,
+);
+
+@function textAligns($type) {
+    @return map-get($text-aligns, $type);
+}
+
+@mixin flex($type) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    @if($type == 'row') {
+        flex-direction: row;
+    }
+    @else {
+        flex-direction: column;
+    }
+}
+
+@mixin font($fontWeight, $fontSize, $color) {
+    font-weight: $fontWeight;
+    font-size: $fontSize;
+    color: $color;
+}
+
+@mixin width-height($width, $height) {
+    width: $width;
+    height: $height;
+}
+
+.container-#{$faqs} {
+    .#{$wrapper}-top-#{$faqs} {
+        width: $fullwidth;
+        @include flex('row');
+        .#{$wrapper}-#{$faqs} {
+            width: 486px;
+            @include flex('column');
+            .title-#{$faqs}{
+                @include font(700, 24px, #1F2251);
+                text-align: textAligns('center');
+                text-transform: uppercase;
+                margin-bottom: 10px;
+            }
+            .description-#{$faqs}{
+                @include font(400, 16px, #212121);
+                text-align: textAligns('center');
+                letter-spacing: 0.15px;
+                line-height: 24px;
+            }
+        }
+    }
+
+    .#{$wrapper}-search-#{$faqs} {
+        width: $fullwidth;
+        @include flex('row');
+        .form-input {
+            @include flex('row');
+            position: relative;
+            width: 690px;
+            background: #FFFFFF;
+            border-radius: 8px;
+            .icon {
+                @include flex('row');
+                position: absolute;
+                z-index: 1;
+                top: 0;
+                left: 20px;
+                font-size: 18px;
+                height: 100%;
+                color: $colorSeachInput;
+            }
+            input {
+                display: block;
+                width: 100%;
+                outline: none;
+                border: 2px solid #eee;
+                padding: 12px 20px 12px 50px;
+                font-size: 18px;
+                color: $colorSeachInput;
+            }
+        }
+    }
+
+    .#{$wrapper}-tabs-#{$faqs} {
+        .tabs-#{$faqs}-list {
+            width: $fullwidth;
+            @include flex('row');
+            justify-content: space-between;
+            margin-bottom: 40px;
+            position: relative;
+            .tab-faq-item {
+                padding: 10px;
+                cursor: pointer;
+                transition: all 0.5s ease;
+                .tab-faq-topic {
+                    @include font(700, 20px, rgba(93, 106, 130, 0.78));
+                }
+            }
+            & .line-faqs {
+                position: absolute;
+                left: 0;
+                bottom: 0;
+                @include width-height(0px, 5px);
+                border-radius: 10px;
+                background-color: #c23564;
+                transition: all 0.2s ease;
+            }
+        }
+        .accordion {
+            width: 80%;
+            margin: 0 auto;
+            &-faq-content {
+                display: none;
+                width: $fullwidth;
+                background: #F7F7F9;
+                border: 1px solid rgba(234, 234, 255, 0.87);
+                border-radius: 8px;
+                padding: 24px;
+                margin-bottom: 12px;
+                overflow: hidden;
+                header {
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-between;
+                    min-height: 40px;
+                    transition: all 0.2s linear;
+                    .accordion-faq-title {
+                        @include font(500, 20px, #1F2251);
+                        letter-spacing: 0.15px;
+                    }
+                    i {
+                        font-size: 17px;
+                        color: #606A7C;
+                    }
+                }
+                .open {
+                    header {
+                        min-height: 30px;
+                    }
+                }
+                .accordion-faq-description {
+                    @include font(400,16px ,rgba(76, 78, 100, 0.87));
+                    letter-spacing: 0.15px;
+                    line-height: 24px;
+                     /* close accordion */
+                    height: 0;
+                    overflow: hidden;
+                    transition: all 0.2s linear;
+                }
+            }
+        }
+    }
+
+    .search-not-found {
+        display: none;
+        width: $fullwidth;
+        text-align: textAligns('center');
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        position: absolute;
+        &-title{
+            @include font(600, 30px, #000);
+        }
+    }
+}

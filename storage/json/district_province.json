@@ -1,0 +1,4187 @@
+[
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Quận Ba Đình",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Quận Hoàn Kiếm",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Quận Hai Bà Trưng",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Quận Đống Đa",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Quận Tây Hồ",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Quận Cầu Giấy",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Quận Thanh Xuân",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Quận Hoàng Mai",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Quận Long Biên",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Quận Bắc Từ Liêm",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Thanh Trì",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Gia Lâm",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Huyện Đông Anh",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Huyện Sóc Sơn",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "15",
+  "school_district_name": "Quận Hà Đông",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "16",
+  "school_district_name": "Thị xã Sơn Tây",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "17",
+  "school_district_name": "Huyện Ba Vì",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "18",
+  "school_district_name": "Huyện Phúc Thọ",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "19",
+  "school_district_name": "Huyện Thạch Thất",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "20",
+  "school_district_name": "Huyện Quốc Oai",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "21",
+  "school_district_name": "Huyện Chương Mỹ",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "22",
+  "school_district_name": "Huyện Đan Phượng",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "23",
+  "school_district_name": "Huyện Hoài Đức",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "24",
+  "school_district_name": "Huyện Thanh Oai",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "25",
+  "school_district_name": "Huyện Mỹ Đức",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "26",
+  "school_district_name": "Huyện Ứng Hòa",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "27",
+  "school_district_name": "Huyện Thường Tín",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "28",
+  "school_district_name": "Huyện Phú Xuyên",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "29",
+  "school_district_name": "Huyện Mê Linh",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "30",
+  "school_district_name": "Quận Nam Từ Liêm",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "31",
+  "school_district_name": "Huyện Từ Liêm",
+  "school_province_code": "01"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Quận 1",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Quận 2",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Quận 3",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Quận 4",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Quận 5",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Quận 6",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Quận 7",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Quận 8",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Quận 9",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Quận 10",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Quận 11",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Quận 12",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Quận Gò Vấp",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Quận Tân Bình",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "15",
+  "school_district_name": "Quận Tân Phú",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "16",
+  "school_district_name": "Quận Bình Thạnh",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "17",
+  "school_district_name": "Quận Phú Nhuận",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "18",
+  "school_district_name": "Quận Thủ Đức",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "19",
+  "school_district_name": "Quận Bình Tân",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "20",
+  "school_district_name": "Huyện Bình Chánh",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "21",
+  "school_district_name": "Huyện Củ Chi",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "22",
+  "school_district_name": "Huyện Hóc Môn",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "23",
+  "school_district_name": "Huyện Nhà Bè",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "24",
+  "school_district_name": "Huyện Cần Giờ",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "25",
+  "school_district_name": "Thành phố Thủ Đức",
+  "school_province_code": "02"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Quận Hồng Bàng",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Quận Lê Chân",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Quận Ngô Quyền",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Quận Kiến An",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Quận Hải An",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Quận Đồ Sơn",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện An Lão",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Kiến Thụy",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Thủy Nguyên",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện An Dương",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Tiên Lãng",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Vĩnh Bảo",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Huyện Cát Hải",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "15",
+  "school_district_name": "Quận Dương Kinh",
+  "school_province_code": "03"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "04"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Quận Hải Châu",
+  "school_province_code": "04"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Quận Thanh Khê",
+  "school_province_code": "04"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Quận Sơn Trà",
+  "school_province_code": "04"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Quận Ngũ Hành Sơn",
+  "school_province_code": "04"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Quận Liên Chiểu",
+  "school_province_code": "04"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Hòa Vang",
+  "school_province_code": "04"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Quận Cẩm Lệ",
+  "school_province_code": "04"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Hà Giang",
+  "school_province_code": "05"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Đồng Văn",
+  "school_province_code": "05"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Mèo Vạc",
+  "school_province_code": "05"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Yên Minh",
+  "school_province_code": "05"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Quản Bạ",
+  "school_province_code": "05"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Vị Xuyên",
+  "school_province_code": "05"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Bắc Mê",
+  "school_province_code": "05"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Hoàng Su Phì",
+  "school_province_code": "05"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Xín Mần",
+  "school_province_code": "05"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Bắc Quang",
+  "school_province_code": "05"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Quang Bình",
+  "school_province_code": "05"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Thành phố Hà Giang (từ 04\/6\/2021 không có xã ĐBKK)",
+  "school_province_code": "05"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Cao Bằng",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Bảo Lạc",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Thông Nông",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Hà Quảng",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Trà Lĩnh",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Trùng Khánh",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Nguyên Bình",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Hòa An",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Quảng Uyên",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Thạch An",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Hạ Lang",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Bảo Lâm",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Huyện Phục Hòa",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Huyện Quảng Hòa",
+  "school_province_code": "06"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "07"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành Phố Lai Châu",
+  "school_province_code": "07"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Tam Đường",
+  "school_province_code": "07"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Phong Thổ",
+  "school_province_code": "07"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Sìn Hồ",
+  "school_province_code": "07"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Mường Tè",
+  "school_province_code": "07"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Than Uyên",
+  "school_province_code": "07"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Tân Uyên",
+  "school_province_code": "07"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Nậm Nhùn",
+  "school_province_code": "07"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "08"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Huyện Bảo Thắng",
+  "school_province_code": "08"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Bảo Yên",
+  "school_province_code": "08"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Bát Xát",
+  "school_province_code": "08"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Bắc Hà",
+  "school_province_code": "08"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Thành phố Lào Cai",
+  "school_province_code": "08"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Mường Khương",
+  "school_province_code": "08"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Sa Pa (Trước 01\/01\/2020)",
+  "school_province_code": "08"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Si Ma Cai",
+  "school_province_code": "08"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Văn Bàn",
+  "school_province_code": "08"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Thị xã Sa Pa (Từ 01\/01\/2020)",
+  "school_province_code": "08"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "09"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Tuyên Quang",
+  "school_province_code": "09"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Lâm Bình",
+  "school_province_code": "09"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Na Hang",
+  "school_province_code": "09"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Chiêm Hóa",
+  "school_province_code": "09"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Hàm Yên",
+  "school_province_code": "09"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Yên Sơn",
+  "school_province_code": "09"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Sơn Dương",
+  "school_province_code": "09"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "10"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Lạng Sơn",
+  "school_province_code": "10"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Tràng Định",
+  "school_province_code": "10"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Bình Gia",
+  "school_province_code": "10"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Văn Lãng",
+  "school_province_code": "10"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Bắc Sơn",
+  "school_province_code": "10"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Văn Quan",
+  "school_province_code": "10"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Cao Lộc",
+  "school_province_code": "10"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Lộc Bình",
+  "school_province_code": "10"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Chi Lăng",
+  "school_province_code": "10"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Đình Lập",
+  "school_province_code": "10"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Hữu Lũng",
+  "school_province_code": "10"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "11"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Bắc Kạn",
+  "school_province_code": "11"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Chợ Đồn",
+  "school_province_code": "11"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Bạch Thông",
+  "school_province_code": "11"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Na Rì",
+  "school_province_code": "11"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Ngân Sơn",
+  "school_province_code": "11"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Ba Bể",
+  "school_province_code": "11"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Chợ Mới",
+  "school_province_code": "11"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Pác Nặm",
+  "school_province_code": "11"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "12"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Thái Nguyên",
+  "school_province_code": "12"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thành phố Sông Công",
+  "school_province_code": "12"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Định Hóa",
+  "school_province_code": "12"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Phú Lương",
+  "school_province_code": "12"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Võ Nhai",
+  "school_province_code": "12"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Đại Từ",
+  "school_province_code": "12"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Đồng Hỷ",
+  "school_province_code": "12"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Phú Bình",
+  "school_province_code": "12"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Thị xã Phổ Yên",
+  "school_province_code": "12"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Thành phố Phổ Yên",
+  "school_province_code": "12"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Đại Từ (04\/6\/2021)",
+  "school_province_code": "12"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Thành phố Sông Công (Từ 04\/6\/2021)",
+  "school_province_code": "12"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "13"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Yên Bái (trước 4\/6\/2021)",
+  "school_province_code": "13"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thị xã Nghĩa Lộ",
+  "school_province_code": "13"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Văn Yên",
+  "school_province_code": "13"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Yên Bình",
+  "school_province_code": "13"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Mù Cang Chải",
+  "school_province_code": "13"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Văn Chấn",
+  "school_province_code": "13"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Trấn Yên",
+  "school_province_code": "13"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Trạm Tấu",
+  "school_province_code": "13"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Lục Yên",
+  "school_province_code": "13"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Thành phố Yên Bái (Từ 4\/6\/2021 không còn xã ĐBKK)",
+  "school_province_code": "13"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "14"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Sơn La",
+  "school_province_code": "14"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Quỳnh Nhai",
+  "school_province_code": "14"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Mường La",
+  "school_province_code": "14"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Thuận Châu",
+  "school_province_code": "14"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Bắc Yên",
+  "school_province_code": "14"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Phù Yên",
+  "school_province_code": "14"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Mai Sơn",
+  "school_province_code": "14"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Yên Châu",
+  "school_province_code": "14"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Sông Mã",
+  "school_province_code": "14"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Mộc Châu",
+  "school_province_code": "14"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Sốp Cộp",
+  "school_province_code": "14"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Vân Hồ",
+  "school_province_code": "14"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Việt Trì",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thị xã Phú Thọ",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Đoan Hùng",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Thanh Ba (Trước 04\/6\/2021)",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Hạ Hòa (Trước 04\/6\/2021)",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Cẩm Khê (Trước 04\/6\/2021)",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Yên Lập",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Thanh Sơn",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Phù Ninh (Trước 04\/6\/2021)",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Lâm Thao (Trước 04\/6\/2021)",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Tam Nông (Trước 04\/6\/2021)",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Thanh Thủy",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Huyện Tân Sơn",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Huyện Cẩm Khê (Từ 04\/6\/2021)",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "15",
+  "school_district_name": "Huyện Hạ Hòa (Từ 04\/6\/2021)",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "16",
+  "school_district_name": "Huyện Lâm Thao (Từ 04\/6\/2021)",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "17",
+  "school_district_name": "Huyện Phù Ninh (Từ 04\/6\/2021)",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "18",
+  "school_district_name": "Huyện Tam Nông (Từ 04\/6\/2021)",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "19",
+  "school_district_name": "Huyện Thanh Ba (Từ 04\/6\/2021)",
+  "school_province_code": "15"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "16"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Vĩnh Yên",
+  "school_province_code": "16"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Tam Dương",
+  "school_province_code": "16"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Lập Thạch",
+  "school_province_code": "16"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Vĩnh Tường",
+  "school_province_code": "16"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Yên Lạc",
+  "school_province_code": "16"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Bình Xuyên",
+  "school_province_code": "16"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Sông Lô",
+  "school_province_code": "16"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Thành phố Phúc Yên",
+  "school_province_code": "16"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Tam Đảo (trước 04\/6\/2021)",
+  "school_province_code": "16"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Tam Đảo",
+  "school_province_code": "16"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Hạ Long",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thành phố Cẩm Phả",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Thành phố Uông Bí",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Thành phố Móng Cái",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Bình Liêu",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Đầm Hà",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Hải Hà",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Tiên Yên",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Ba Chẽ",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Thị xã Đông Triều",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Thị xã Quảng Yên",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Hoành Bồ (Trước 01\/01\/2020)",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Huyện Vân Đồn",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Huyện Cô Tô",
+  "school_province_code": "17"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "18"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Bắc Giang",
+  "school_province_code": "18"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Yên Thế",
+  "school_province_code": "18"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Lục Ngạn",
+  "school_province_code": "18"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Sơn Động",
+  "school_province_code": "18"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Lục Nam",
+  "school_province_code": "18"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Tân Yên",
+  "school_province_code": "18"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Hiệp Hòa",
+  "school_province_code": "18"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Lạng Giang",
+  "school_province_code": "18"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Việt Yên",
+  "school_province_code": "18"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Yên Dũng",
+  "school_province_code": "18"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "19"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Bắc Ninh",
+  "school_province_code": "19"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Yên Phong",
+  "school_province_code": "19"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Quế Võ",
+  "school_province_code": "19"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Tiên Du",
+  "school_province_code": "19"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Thành phố Từ  Sơn",
+  "school_province_code": "19"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Thuận Thành",
+  "school_province_code": "19"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Gia Bình",
+  "school_province_code": "19"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Lương Tài",
+  "school_province_code": "19"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "21"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Hải Dương",
+  "school_province_code": "21"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thành phố Chí Linh",
+  "school_province_code": "21"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Nam Sách",
+  "school_province_code": "21"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Thị xã Kinh Môn",
+  "school_province_code": "21"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Gia Lộc",
+  "school_province_code": "21"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Tứ Kỳ",
+  "school_province_code": "21"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Thanh Miện",
+  "school_province_code": "21"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Ninh Giang",
+  "school_province_code": "21"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Cẩm Giàng",
+  "school_province_code": "21"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Thanh Hà",
+  "school_province_code": "21"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Kim Thành",
+  "school_province_code": "21"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Bình Giang",
+  "school_province_code": "21"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "22"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Hưng Yên",
+  "school_province_code": "22"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Kim Động",
+  "school_province_code": "22"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Ân Thi",
+  "school_province_code": "22"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Khoái Châu",
+  "school_province_code": "22"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Yên Mỹ",
+  "school_province_code": "22"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Tiên Lữ",
+  "school_province_code": "22"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Phù Cừ",
+  "school_province_code": "22"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Mỹ Hào",
+  "school_province_code": "22"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Văn Lâm",
+  "school_province_code": "22"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Văn Giang",
+  "school_province_code": "22"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Thị xã Mỹ Hào",
+  "school_province_code": "22"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "23"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Hòa Bình",
+  "school_province_code": "23"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Đà Bắc",
+  "school_province_code": "23"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Mai Châu",
+  "school_province_code": "23"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Tân Lạc",
+  "school_province_code": "23"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Lạc Sơn",
+  "school_province_code": "23"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Lương Sơn",
+  "school_province_code": "23"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Kim Bôi",
+  "school_province_code": "23"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Lạc Thủy",
+  "school_province_code": "23"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Yên Thủy",
+  "school_province_code": "23"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Cao Phong",
+  "school_province_code": "23"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "24"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Phủ Lý",
+  "school_province_code": "24"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Duy Tiên",
+  "school_province_code": "24"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Kim Bảng",
+  "school_province_code": "24"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Lý Nhân",
+  "school_province_code": "24"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Thanh Liêm",
+  "school_province_code": "24"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Bình Lục",
+  "school_province_code": "24"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Thị xã Duy Tiên",
+  "school_province_code": "24"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "25"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Nam Định",
+  "school_province_code": "25"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Mỹ Lộc",
+  "school_province_code": "25"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Xuân Trường",
+  "school_province_code": "25"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Giao Thủy",
+  "school_province_code": "25"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện ý Yên",
+  "school_province_code": "25"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Vụ Bản",
+  "school_province_code": "25"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Nam Trực",
+  "school_province_code": "25"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Trực Ninh",
+  "school_province_code": "25"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Nghĩa Hưng",
+  "school_province_code": "25"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Hải Hậu",
+  "school_province_code": "25"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "26"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Thái Bình",
+  "school_province_code": "26"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Quỳnh Phụ",
+  "school_province_code": "26"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Hưng Hà",
+  "school_province_code": "26"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Đông Hưng",
+  "school_province_code": "26"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Vũ Thư",
+  "school_province_code": "26"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Kiến Xương",
+  "school_province_code": "26"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Tiền Hải",
+  "school_province_code": "26"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Thái Thụy",
+  "school_province_code": "26"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "27"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Ninh Bình",
+  "school_province_code": "27"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thành phố Tam Điệp (Trước năm 2022)",
+  "school_province_code": "27"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Nho Quan (Trước năm 2022)",
+  "school_province_code": "27"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Gia Viễn",
+  "school_province_code": "27"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Hoa Lư",
+  "school_province_code": "27"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Yên Mô",
+  "school_province_code": "27"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Kim Sơn",
+  "school_province_code": "27"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Yên Khánh",
+  "school_province_code": "27"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Nho Quan",
+  "school_province_code": "27"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Thành phố Tam Điệp",
+  "school_province_code": "27"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Thanh Hóa",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thị xã Bỉm Sơn",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Thành phố  Sầm Sơn",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Quan Hóa",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Quan Sơn",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Mường Lát",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Bá Thước",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Thường Xuân",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Như Xuân",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Như Thanh",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Lang Chánh",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Ngọc Lặc",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Huyện Thạch Thành",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Huyện Cẩm Thủy",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "15",
+  "school_district_name": "Huyện Thọ Xuân",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "16",
+  "school_district_name": "Huyện Vĩnh Lộc",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "17",
+  "school_district_name": "Huyện Thiệu Hóa",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "18",
+  "school_district_name": "Huyện Triệu Sơn",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "19",
+  "school_district_name": "Huyện Nông Cống",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "20",
+  "school_district_name": "Huyện Đông Sơn",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "21",
+  "school_district_name": "Huyện Hà Trung",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "22",
+  "school_district_name": "Huyện Hoằng Hóa",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "23",
+  "school_district_name": "Huyện Nga Sơn",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "24",
+  "school_district_name": "Huyện Hậu Lộc",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "25",
+  "school_district_name": "Huyện Quảng Xương",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "26",
+  "school_district_name": "Huyện Tĩnh Gia (Trước 01\/06\/2020)",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "27",
+  "school_district_name": "Huyện Yên Định",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "28",
+  "school_district_name": "Thị xã Nghi Sơn (Từ 01\/06\/2020)",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "29",
+  "school_district_name": "Huyện Vĩnh Lộc (Từ 04\/6\/2021 không còn xã ĐBKK)",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "30",
+  "school_district_name": "Huyện Cẩm Thuỷ (Từ 04\/6\/2021 không còn xã ĐBKK)",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "31",
+  "school_district_name": "Huyện Yên Định (Từ 04\/6\/2021 không còn xã ĐBKK)",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "32",
+  "school_district_name": "Huyện Thọ Xuân (Từ 04\/6\/2021 không còn xã ĐBKK)",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "33",
+  "school_district_name": "Huyện Nga Sơn (Từ 01\/01\/2020 không còn xã ĐBKK)",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "34",
+  "school_district_name": "Huyện Hoằng Hoá (Từ 01\/01\/2021 không còn xã ĐBKK)",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "35",
+  "school_district_name": "Huyện Quảng Xương(Từ 01\/01\/2018 không còn xã ĐBKK)",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "36",
+  "school_district_name": "TP Sầm Sơn (Từ 01\/01\/2021 không còn xã ĐBKK)",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "37",
+  "school_district_name": "Huyện Hà Trung (Từ 28\/4\/2017 không còn xã ĐBKK)",
+  "school_province_code": "28"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Vinh",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thị xã Cửa Lò",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Quỳ Châu",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Quỳ Hợp",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Nghĩa Đàn",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Quỳnh Lưu",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Kỳ Sơn",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Tương Dương",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Con Cuông",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Tân Kỳ",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Yên Thành (Trước 04\/6\/2021 có xã ĐBKK)",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Diễn Châu (Trước 15\/3\/2022 có xã ĐBKK)",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Huyện Anh Sơn",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Huyện Đô Lương",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "15",
+  "school_district_name": "Huyện Thanh Chương",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "16",
+  "school_district_name": "Huyện Nghi Lộc (Từ 01\/01\/2020 không có xã ĐBKK)",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "17",
+  "school_district_name": "Huyện Nam Đàn",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "18",
+  "school_district_name": "Huyện Hưng Nguyên",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "19",
+  "school_district_name": "Huyện Quế Phong",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "20",
+  "school_district_name": "Thị Xã Thái Hòa",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "21",
+  "school_district_name": "Thị Xã Hoàng Mai",
+  "school_province_code": "29"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Hà Tĩnh",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thị xã Hồng Lĩnh",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Hương Sơn (trước 04\/6\/2021 có xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Đức Thọ (trước 20\/6\/2017 có xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Nghi Xuân (trước 01\/01\/2019 có xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Can Lộc (trước 20\/6\/2017 có xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Hương Khê",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Thạch Hà (trước 01\/01\/\/2021 có xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Cẩm Xuyên (trước 04\/06\/2021 có xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Kỳ Anh (trước 04\/6\/2021 có xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Vũ Quang (trước 04\/6\/2021 có xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Lộc Hà (trước 01\/01\/2020 có xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Thị xã Kỳ Anh (trước 04\/6\/2021 có xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Thị xã Kỳ Anh (từ 04\/6\/2021  không còn xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "15",
+  "school_district_name": "Huyện Kỳ Anh (từ 04\/6\/2021  không còn xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "16",
+  "school_district_name": "Huyện Cẩm Xuyên (từ 04\/06\/2021 không còn xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "17",
+  "school_district_name": "Huyện Thạch Hà (từ 01\/01\/2021 không còn xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "18",
+  "school_district_name": "Huyện Can Lộc (từ 20\/6\/2017 không còn xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "20",
+  "school_district_name": "Huyện Lộc Hà (từ 01\/01\/2020  không còn xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "22",
+  "school_district_name": "Huyện Nghi Xuân (từ 01\/01\/2019  không còn xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "23",
+  "school_district_name": "Huyện Đức Thọ (từ 20\/6\/2017 không còn xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "25",
+  "school_district_name": "Huyện Hương Sơn (từ 04\/6\/2021 không còn xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "26",
+  "school_district_name": "Huyện Vũ Quang (từ 04\/6\/2021 không còn xã ĐBKK)",
+  "school_province_code": "30"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "31"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Đồng Hới",
+  "school_province_code": "31"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Tuyên Hóa",
+  "school_province_code": "31"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Minh Hóa",
+  "school_province_code": "31"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Quảng Trạch",
+  "school_province_code": "31"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Bố Trạch",
+  "school_province_code": "31"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Quảng Ninh",
+  "school_province_code": "31"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Lệ Thủy",
+  "school_province_code": "31"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Thị xã Ba Đồn",
+  "school_province_code": "31"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "32"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Đông Hà",
+  "school_province_code": "32"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thị xã Quảng Trị",
+  "school_province_code": "32"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Vĩnh Linh",
+  "school_province_code": "32"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Gio Linh",
+  "school_province_code": "32"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Cam Lộ",
+  "school_province_code": "32"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Triệu Phong",
+  "school_province_code": "32"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Hải Lăng",
+  "school_province_code": "32"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Hướng Hóa",
+  "school_province_code": "32"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Đakrông",
+  "school_province_code": "32"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "33"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Huế",
+  "school_province_code": "33"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Phong Điền",
+  "school_province_code": "33"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Quảng Điền",
+  "school_province_code": "33"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Thị xã Hương Trà",
+  "school_province_code": "33"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Phú Vang",
+  "school_province_code": "33"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Thị xã Hương Thủy",
+  "school_province_code": "33"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Phú Lộc",
+  "school_province_code": "33"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Nam Đông",
+  "school_province_code": "33"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện A Lưới",
+  "school_province_code": "33"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Tam Kỳ",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thành phố Hội An",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Duy Xuyên",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Thị xã Điện Bàn",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Đại Lộc",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Quế Sơn",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Hiệp Đức (trước 04\/6\/2021)",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Thăng Bình",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Núi Thành",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Tiên Phước (trước 04\/62021)",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Bắc Trà My",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Đông Giang",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Huyện Nam Giang",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Huyện Phước Sơn",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "15",
+  "school_district_name": "Huyện Nam Trà My",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "16",
+  "school_district_name": "Huyện Tây Giang",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "17",
+  "school_district_name": "Huyện Phú Ninh",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "18",
+  "school_district_name": "Huyện Nông Sơn (trước 04\/6\/2021)",
+  "school_province_code": "34"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Huyện Bình Sơn",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Sơn Tịnh",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Thành phố Quảng Ngãi",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Tư Nghĩa",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Nghĩa Hành",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Mộ Đức",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Đức Phổ (trước 01\/02\/2020)",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Ba Tơ",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Minh Long",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Sơn Hà",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Sơn Tây",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Trà Bồng",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Huyện Tây Trà (trước 01\/02\/2020)",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Huyện Lý Sơn",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "15",
+  "school_district_name": "Thị xã Đức Phổ (từ ngày 01\/02\/2020)",
+  "school_province_code": "35"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "36"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Kon Tum",
+  "school_province_code": "36"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện ĐĂK GLEI",
+  "school_province_code": "36"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Ngọc Hồi",
+  "school_province_code": "36"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Đăk Tô",
+  "school_province_code": "36"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Sa Thầy",
+  "school_province_code": "36"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Kon Plông",
+  "school_province_code": "36"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Đăk Hà",
+  "school_province_code": "36"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Kon Rẫy",
+  "school_province_code": "36"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Tu Mơ Rông",
+  "school_province_code": "36"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện IA H'DRAI",
+  "school_province_code": "36"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "37"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Quy Nhơn",
+  "school_province_code": "37"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện An Lão",
+  "school_province_code": "37"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Hoài Ân",
+  "school_province_code": "37"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Hoài Nhơn (đến 01\/6\/2020)",
+  "school_province_code": "37"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Phù Mỹ",
+  "school_province_code": "37"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Phù Cát",
+  "school_province_code": "37"
+ },
+ {
+  "school_district_code": "Huyện Vĩnh Thạnh",
+  "school_district_name": "546",
+  "school_province_code": "Tỉnh Bình Định"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Vĩnh Thạnh",
+  "school_province_code": "37"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Tây Sơn",
+  "school_province_code": "37"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Vân Canh",
+  "school_province_code": "37"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Thị xã An Nhơn",
+  "school_province_code": "37"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Tuy Phước",
+  "school_province_code": "37"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Thị xã Hoài Nhơn",
+  "school_province_code": "37"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Pleiku",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Chư Păh",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Mang Yang",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện KBang",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Thị xã An Khê",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Kông Chro",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Đức Cơ",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Chư Prông",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Chư Sê",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Thị xã Ayun Pa",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Krông Pa",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Ia Grai",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Huyện Đak Đoa",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Huyện Ia Pa",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "15",
+  "school_district_name": "Huyện Đak Pơ",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "16",
+  "school_district_name": "Huyện Phú Thiện",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "17",
+  "school_district_name": "Huyện Chư Pưh",
+  "school_province_code": "38"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Tuy Hòa (Trước 25\/1\/2017)",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Đồng Xuân",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Thị xã Sông Cầu (Trước 15\/3\/2022)",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Tuy An (Trước 15\/3\/2022)",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Sơn Hòa",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Sông Hinh",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện  Đông Hòa (Trước 06\/2020)",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Phú Hòa (Trước 04\/6\/2021)",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Tây Hòa",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Thị xã Đông Hòa (Trước 15\/3\/2021)",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Thành phố Tuy Hòa (Từ 25\/1\/2017 không còn xã ĐBKK)",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Thị xã Sông Cầu (Từ 15\/3\/2022 không còn xã ĐBKK)",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Thị xã Đông Hòa (Từ 15\/3\/2022 không còn xã ĐBKK)",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Huyện Tuy An (Từ 15\/3\/2022 không còn xã ĐBKK)",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "15",
+  "school_district_name": "Huyện Phú Hòa (Từ 04\/6\/2021 không còn xã ĐBKK)",
+  "school_province_code": "39"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Buôn Ma Thuột",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Ea H'Leo",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Krông Buk",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Krông Năng",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Ea Súp",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Cư M'gar",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Krông Pắc",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Ea Kar",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện M'Đrắk",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Krông Ana",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Krông Bông",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Lắk",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Huyện Buôn Đôn",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Huyện Cư Kuin",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "15",
+  "school_district_name": "Thị Xã Buôn Hồ",
+  "school_province_code": "40"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "41"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Nha Trang",
+  "school_province_code": "41"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Vạn Ninh",
+  "school_province_code": "41"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Thị xã Ninh Hòa",
+  "school_province_code": "41"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Diên Khánh",
+  "school_province_code": "41"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Khánh Vĩnh",
+  "school_province_code": "41"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Thành phố Cam Ranh",
+  "school_province_code": "41"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Khánh Sơn",
+  "school_province_code": "41"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Cam Lâm",
+  "school_province_code": "41"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Đà Lạt",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thành phố Bảo Lộc",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Đức Trọng",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Di Linh",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Đơn Dương",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Lạc Dương",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Đạ Huoai",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Đạ Tẻh",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Cát Tiên",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Lâm Hà",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Bảo Lâm",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Đam Rông",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Đạ Tẻh (từ 04\/6\/2021 không còn xã ĐBKK)",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Cát Tiên (từ 04\/6\/2021 không còn xã ĐBKK)",
+  "school_province_code": "42"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "43"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Đồng Xoài",
+  "school_province_code": "43"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Đồng Phú",
+  "school_province_code": "43"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Chơn Thành",
+  "school_province_code": "43"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Thị xã Bình Long",
+  "school_province_code": "43"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Lộc Ninh",
+  "school_province_code": "43"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Bù Đốp",
+  "school_province_code": "43"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Thị xã Phước Long",
+  "school_province_code": "43"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Bù Đăng",
+  "school_province_code": "43"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Hớn Quản",
+  "school_province_code": "43"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Bù Gia Mập",
+  "school_province_code": "43"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Phú Riềng",
+  "school_province_code": "43"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "44"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Thủ Dầu Một",
+  "school_province_code": "44"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thị xã Bến Cát",
+  "school_province_code": "44"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Thị xã Tân Uyên",
+  "school_province_code": "44"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Thị xã Thuận An",
+  "school_province_code": "44"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Thị xã Dĩ An",
+  "school_province_code": "44"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Phú Giáo",
+  "school_province_code": "44"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Dầu Tiếng",
+  "school_province_code": "44"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Bắc Tân Uyên",
+  "school_province_code": "44"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Bàu Bàng",
+  "school_province_code": "44"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Thành phố Thuận An",
+  "school_province_code": "44"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Thành phố Dĩ An",
+  "school_province_code": "44"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "45"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Phan Rang -Tháp Chàm",
+  "school_province_code": "45"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Ninh Sơn",
+  "school_province_code": "45"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Ninh Hải",
+  "school_province_code": "45"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Ninh Phước",
+  "school_province_code": "45"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Bác ái",
+  "school_province_code": "45"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Thuận Bắc",
+  "school_province_code": "45"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Thuận Nam",
+  "school_province_code": "45"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "46"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Tây Ninh",
+  "school_province_code": "46"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Tân Biên",
+  "school_province_code": "46"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Tân Châu",
+  "school_province_code": "46"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Dương Minh Châu",
+  "school_province_code": "46"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Châu Thành",
+  "school_province_code": "46"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Hòa Thành (trước 01\/02\/2020)",
+  "school_province_code": "46"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Bến Cầu",
+  "school_province_code": "46"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Gò Dầu",
+  "school_province_code": "46"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Trảng Bàng (trước 01\/02\/2020)",
+  "school_province_code": "46"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Thị xã Hòa Thành (từ 01\/02\/2020)",
+  "school_province_code": "46"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Thị xã Trảng Bàng (từ 01\/02\/2020)",
+  "school_province_code": "46"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "47"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Phan Thiết",
+  "school_province_code": "47"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Tuy Phong",
+  "school_province_code": "47"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Bắc Bình",
+  "school_province_code": "47"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Hàm Thuận Bắc",
+  "school_province_code": "47"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Hàm Thuận Nam",
+  "school_province_code": "47"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Hàm Tân",
+  "school_province_code": "47"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Đức Linh (Trước 04\/06\/2021)",
+  "school_province_code": "47"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Tánh Linh",
+  "school_province_code": "47"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện đảo Phú Quý (Trước 15\/03\/2022)",
+  "school_province_code": "47"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Thị xã La Gi",
+  "school_province_code": "47"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Đức Linh (Từ 04\/06\/2021)",
+  "school_province_code": "47"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện đảo Phú Quý (Từ 15\/03\/2022)",
+  "school_province_code": "47"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "48"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Biên Hòa",
+  "school_province_code": "48"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Vĩnh Cửu",
+  "school_province_code": "48"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Tân Phú",
+  "school_province_code": "48"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Định Quán",
+  "school_province_code": "48"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Thống Nhất",
+  "school_province_code": "48"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Thị xã Long Khánh (Trước 10\/4\/2019)",
+  "school_province_code": "48"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Xuân Lộc",
+  "school_province_code": "48"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Long Thành",
+  "school_province_code": "48"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Nhơn Trạch",
+  "school_province_code": "48"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Trảng Bom",
+  "school_province_code": "48"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Cẩm Mỹ",
+  "school_province_code": "48"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Thành phố Long Khánh",
+  "school_province_code": "48"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Tân An",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Vĩnh Hưng",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Mộc Hóa",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Tân Thạnh",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Thạnh Hóa",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Đức Huệ",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Đức Hòa",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Bến Lức",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Thủ Thừa",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Châu Thành",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Tân Trụ",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Cần Đước",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Huyện Cần Giuộc",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Huyện Tân Hưng",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "15",
+  "school_district_name": "Thị xã Kiến Tường",
+  "school_province_code": "49"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "50"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Huyện Châu Thành",
+  "school_province_code": "50"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Lai Vung",
+  "school_province_code": "50"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Lấp Vò",
+  "school_province_code": "50"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Thành phố Sa Đéc",
+  "school_province_code": "50"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Thành phố Cao Lãnh",
+  "school_province_code": "50"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Cao Lãnh",
+  "school_province_code": "50"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Tháp Mười",
+  "school_province_code": "50"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Tam Nông",
+  "school_province_code": "50"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Thanh Bình",
+  "school_province_code": "50"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Thị xã Hồng Ngự",
+  "school_province_code": "50"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Hồng Ngự",
+  "school_province_code": "50"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Tân Hồng",
+  "school_province_code": "50"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Thành phố Hồng Ngự",
+  "school_province_code": "50"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "51"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Long Xuyên",
+  "school_province_code": "51"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thành phố Châu Đốc",
+  "school_province_code": "51"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện An Phú",
+  "school_province_code": "51"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Thị xã Tân Châu",
+  "school_province_code": "51"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Phú Tân",
+  "school_province_code": "51"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Tịnh Biên",
+  "school_province_code": "51"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Tri Tôn",
+  "school_province_code": "51"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Châu Phú",
+  "school_province_code": "51"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Chợ Mới",
+  "school_province_code": "51"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Châu Thành",
+  "school_province_code": "51"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Thoại Sơn",
+  "school_province_code": "51"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "52"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Vũng Tàu",
+  "school_province_code": "52"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thành phố Bà Rịa",
+  "school_province_code": "52"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Xuyên Mộc",
+  "school_province_code": "52"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Long Điền",
+  "school_province_code": "52"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Côn Đảo",
+  "school_province_code": "52"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Thị xã Phú Mỹ (H.Tân Thành)",
+  "school_province_code": "52"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Châu Đức",
+  "school_province_code": "52"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Đất Đỏ",
+  "school_province_code": "52"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "53"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Mỹ Tho",
+  "school_province_code": "53"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thị xã Gò Công",
+  "school_province_code": "53"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Cái Bè",
+  "school_province_code": "53"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Cai Lậy",
+  "school_province_code": "53"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Châu Thành",
+  "school_province_code": "53"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Chợ Gạo",
+  "school_province_code": "53"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Gò Công Tây",
+  "school_province_code": "53"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Gò Công Đông",
+  "school_province_code": "53"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Tân Phước",
+  "school_province_code": "53"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Tân Phú Đông (Trước ngày 15\/3\/2022)",
+  "school_province_code": "53"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Thị xã Cai Lậy",
+  "school_province_code": "53"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Tân Phú Đông (Từ ngày 15\/3\/2022)",
+  "school_province_code": "53"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Rạch Giá",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thành phố Hà Tiên",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Kiên Lương",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Hòn Đất",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Tân Hiệp",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Châu Thành",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Giồng Riềng",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Gò Quao",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện An Biên",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện An Minh",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Vĩnh Thuận",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "12",
+  "school_district_name": "Huyện Phú Quốc",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "13",
+  "school_district_name": "Huyện Kiên Hải",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "14",
+  "school_district_name": "Huyện U Minh Thượng",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "15",
+  "school_district_name": "Huyện Giang Thành",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "16",
+  "school_district_name": "Thành phố Phú Quốc",
+  "school_province_code": "54"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "55"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Quận Ninh Kiều",
+  "school_province_code": "55"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Quận Bình Thủy",
+  "school_province_code": "55"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Quận Cái Răng",
+  "school_province_code": "55"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Quận Ô Môn",
+  "school_province_code": "55"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Phong Điền",
+  "school_province_code": "55"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Cờ Đỏ",
+  "school_province_code": "55"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Vĩnh Thạnh",
+  "school_province_code": "55"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Quận Thốt Nốt",
+  "school_province_code": "55"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Thới Lai",
+  "school_province_code": "55"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Cờ Đỏ (từ 04\/6\/2021 không còn xã ĐBKK))",
+  "school_province_code": "55"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "56"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Bến Tre",
+  "school_province_code": "56"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Châu Thành (trước 15\/3\/2022)",
+  "school_province_code": "56"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Chợ Lách",
+  "school_province_code": "56"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Mỏ Cày Bắc",
+  "school_province_code": "56"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Giồng Trôm",
+  "school_province_code": "56"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Bình Đại",
+  "school_province_code": "56"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Ba Tri",
+  "school_province_code": "56"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Thạnh Phú",
+  "school_province_code": "56"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Mỏ Cày Nam (trước 15\/3\/2022)",
+  "school_province_code": "56"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Mỏ Cày Nam (từ 15\/3\/2022 không còn xã ĐBKK)",
+  "school_province_code": "56"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Châu Thành (từ 15\/3\/2022 không còn xã ĐBKK)",
+  "school_province_code": "56"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "57"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Vĩnh Long",
+  "school_province_code": "57"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Long Hồ",
+  "school_province_code": "57"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Mang Thít",
+  "school_province_code": "57"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Thị xã Bình Minh",
+  "school_province_code": "57"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Tam Bình",
+  "school_province_code": "57"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Trà Ôn",
+  "school_province_code": "57"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Vũng Liêm",
+  "school_province_code": "57"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Bình Tân",
+  "school_province_code": "57"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "58"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Trà Vinh",
+  "school_province_code": "58"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Càng Long",
+  "school_province_code": "58"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Cầu Kè",
+  "school_province_code": "58"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Tiểu Cần",
+  "school_province_code": "58"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Châu Thành",
+  "school_province_code": "58"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Trà Cú",
+  "school_province_code": "58"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Cầu Ngang",
+  "school_province_code": "58"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Duyên Hải",
+  "school_province_code": "58"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Thị xã Duyên Hải",
+  "school_province_code": "58"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "59"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Sóc Trăng",
+  "school_province_code": "59"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Kế Sách",
+  "school_province_code": "59"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Mỹ Tú",
+  "school_province_code": "59"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Mỹ Xuyên",
+  "school_province_code": "59"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Thạnh Trị",
+  "school_province_code": "59"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Long Phú",
+  "school_province_code": "59"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Thị xã Vĩnh Châu",
+  "school_province_code": "59"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Cù Lao Dung",
+  "school_province_code": "59"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Thị xã Ngã Năm",
+  "school_province_code": "59"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Châu Thành",
+  "school_province_code": "59"
+ },
+ {
+  "school_district_code": "11",
+  "school_district_name": "Huyện Trần Đề",
+  "school_province_code": "59"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "60"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Bạc Liêu",
+  "school_province_code": "60"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Vĩnh Lợi",
+  "school_province_code": "60"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Hồng Dân",
+  "school_province_code": "60"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Thị xã Giá Rai",
+  "school_province_code": "60"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Phước Long",
+  "school_province_code": "60"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Đông Hải",
+  "school_province_code": "60"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Hòa Bình",
+  "school_province_code": "60"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "61"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Cà Mau",
+  "school_province_code": "61"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Thới Bình",
+  "school_province_code": "61"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện U Minh (trước 04\/6\/2021)",
+  "school_province_code": "61"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Trần Văn Thời",
+  "school_province_code": "61"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Cái Nước",
+  "school_province_code": "61"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Đầm Dơi",
+  "school_province_code": "61"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Ngọc Hiển",
+  "school_province_code": "61"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Năm Căn",
+  "school_province_code": "61"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Phú Tân",
+  "school_province_code": "61"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "62"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Điện Biên Phủ",
+  "school_province_code": "62"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Thị xã Mường Lay",
+  "school_province_code": "62"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Điện Biên",
+  "school_province_code": "62"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Tuần Giáo",
+  "school_province_code": "62"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Mường Chà",
+  "school_province_code": "62"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Tủa Chùa",
+  "school_province_code": "62"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Điện Biên Đông",
+  "school_province_code": "62"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Mường Nhé",
+  "school_province_code": "62"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Huyện Mường Ảng",
+  "school_province_code": "62"
+ },
+ {
+  "school_district_code": "10",
+  "school_district_name": "Huyện Nậm Pồ",
+  "school_province_code": "62"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "63"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Gia Nghĩa",
+  "school_province_code": "63"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Đăk R'Lấp",
+  "school_province_code": "63"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Đăk Mil",
+  "school_province_code": "63"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Cư Jút",
+  "school_province_code": "63"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Đăk Song",
+  "school_province_code": "63"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Krông Nô",
+  "school_province_code": "63"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Huyện Đăk GLong",
+  "school_province_code": "63"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Huyện Tuy Đức",
+  "school_province_code": "63"
+ },
+ {
+  "school_district_code": "00",
+  "school_district_name": "Sở Giáo dục và Đào tạo",
+  "school_province_code": "64"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Thành phố Vị Thanh",
+  "school_province_code": "64"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Huyện Vị Thủy",
+  "school_province_code": "64"
+ },
+ {
+  "school_district_code": "03",
+  "school_district_name": "Huyện Long Mỹ",
+  "school_province_code": "64"
+ },
+ {
+  "school_district_code": "04",
+  "school_district_name": "Huyện Phụng Hiệp",
+  "school_province_code": "64"
+ },
+ {
+  "school_district_code": "05",
+  "school_district_name": "Huyện Châu Thành",
+  "school_province_code": "64"
+ },
+ {
+  "school_district_code": "06",
+  "school_district_name": "Huyện Châu Thành A",
+  "school_province_code": "64"
+ },
+ {
+  "school_district_code": "07",
+  "school_district_name": "Thị xã Ngã Bảy",
+  "school_province_code": "64"
+ },
+ {
+  "school_district_code": "08",
+  "school_district_name": "Thị xã Long Mỹ",
+  "school_province_code": "64"
+ },
+ {
+  "school_district_code": "09",
+  "school_district_name": "Thành phố Ngã Bảy",
+  "school_province_code": "64"
+ },
+ {
+  "school_district_code": "01",
+  "school_district_name": "Cục Nhà trường - Hà Nội",
+  "school_province_code": "65"
+ },
+ {
+  "school_district_code": "02",
+  "school_district_name": "Cục Nhà trường - Đồng Nai",
+  "school_province_code": "65"
+ }
+]

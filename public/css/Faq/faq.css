@@ -1,0 +1,158 @@
+.container-faqs .wrapper-top-faqs {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.container-faqs .wrapper-top-faqs .wrapper-faqs {
+  width: 486px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.container-faqs .wrapper-top-faqs .wrapper-faqs .title-faqs {
+  font-weight: 700;
+  font-size: 24px;
+  color: #1F2251;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.container-faqs .wrapper-top-faqs .wrapper-faqs .description-faqs {
+  font-weight: 400;
+  font-size: 16px;
+  color: #212121;
+  text-align: center;
+  letter-spacing: 0.15px;
+  line-height: 24px;
+}
+.container-faqs .wrapper-search-faqs {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.container-faqs .wrapper-search-faqs .form-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  position: relative;
+  width: 690px;
+  background: #FFFFFF;
+  border-radius: 8px;
+}
+.container-faqs .wrapper-search-faqs .form-input .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 20px;
+  font-size: 18px;
+  height: 100%;
+  color: rgba(76, 78, 100, 0.54);
+}
+.container-faqs .wrapper-search-faqs .form-input input {
+  display: block;
+  width: 100%;
+  outline: none;
+  border: 2px solid #eee;
+  padding: 12px 20px 12px 50px;
+  font-size: 18px;
+  color: rgba(76, 78, 100, 0.54);
+}
+.container-faqs .wrapper-tabs-faqs .tabs-faqs-list {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 40px;
+  position: relative;
+}
+.container-faqs .wrapper-tabs-faqs .tabs-faqs-list .tab-faq-item {
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+.container-faqs .wrapper-tabs-faqs .tabs-faqs-list .tab-faq-item .tab-faq-topic {
+  font-weight: 700;
+  font-size: 20px;
+  color: rgba(93, 106, 130, 0.78);
+}
+.container-faqs .wrapper-tabs-faqs .tabs-faqs-list .line-faqs {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0px;
+  height: 5px;
+  border-radius: 10px;
+  background-color: #c23564;
+  transition: all 0.2s ease;
+}
+.container-faqs .wrapper-tabs-faqs .accordion {
+  width: 80%;
+  margin: 0 auto;
+}
+.container-faqs .wrapper-tabs-faqs .accordion-faq-content {
+  display: none;
+  width: 100%;
+  background: #F7F7F9;
+  border: 1px solid rgba(234, 234, 255, 0.87);
+  border-radius: 8px;
+  padding: 24px;
+  margin-bottom: 12px;
+  overflow: hidden;
+}
+.container-faqs .wrapper-tabs-faqs .accordion-faq-content header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 40px;
+  transition: all 0.2s linear;
+}
+.container-faqs .wrapper-tabs-faqs .accordion-faq-content header .accordion-faq-title {
+  font-weight: 500;
+  font-size: 20px;
+  color: #1F2251;
+  letter-spacing: 0.15px;
+}
+.container-faqs .wrapper-tabs-faqs .accordion-faq-content header i {
+  font-size: 17px;
+  color: #606A7C;
+}
+.container-faqs .wrapper-tabs-faqs .accordion-faq-content .open header {
+  min-height: 30px;
+}
+.container-faqs .wrapper-tabs-faqs .accordion-faq-content .accordion-faq-description {
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(76, 78, 100, 0.87);
+  letter-spacing: 0.15px;
+  line-height: 24px;
+  /* close accordion */
+  height: 0;
+  overflow: hidden;
+  transition: all 0.2s linear;
+}
+.container-faqs .search-not-found {
+  display: none;
+  width: 100%;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+.container-faqs .search-not-found-title {
+  font-weight: 600;
+  font-size: 30px;
+  color: #000;
+}

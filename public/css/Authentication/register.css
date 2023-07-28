@@ -1,0 +1,186 @@
+:root {
+  --color-blue: #458FCD;
+  --color-red: #D72134;
+  --color-background: #FAFAFA;
+  --color-error: #FF4D49;
+}
+
+.background {
+  width: 100vw;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.background .container-register {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  display: flex;
+  flex-direction: column;
+  min-width: 512px;
+  min-height: 756px;
+  height: auto;
+  border-radius: 24px;
+  overflow: hidden;
+  background: var(--color-background);
+}
+.background .container-register-top {
+  height: 160px;
+  width: 100%;
+  background: var(--color-red);
+}
+.background .container-register-body {
+  position: relative;
+  width: 100%;
+}
+.background .container-register-body .circle-icons {
+  width: 200px;
+  height: 200px;
+  padding: 48px;
+  background: var(--color-background);
+  border-radius: 50%;
+  border: none;
+  outline: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  position: absolute;
+  z-index: 1;
+  top: -100px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+}
+.background .container-register-body .circle-icons img {
+  width: 100%;
+  display: block;
+  -o-object-fit: cover;
+     object-fit: cover;
+  margin: 10px;
+}
+.background .container-register-body #form-register {
+  margin: 120px 56px 32px 56px;
+}
+.background .container-register-body #form-register .form-field {
+  position: relative;
+  margin-bottom: 24px;
+}
+.background .container-register-body #form-register .form-field .form-input {
+  width: 100%;
+  height: 58px;
+  padding: 0px 12px;
+  border-radius: 8px;
+  transition: 0.25s ease;
+  border: 2px solid var(--color-blue);
+}
+.background .container-register-body #form-register .form-field .form-input:focus, .background .container-register-body #form-register .form-field .form-input:active {
+  outline: none;
+}
+.background .container-register-body #form-register .form-field .form-input + .form-label {
+  top: 0px;
+  padding: 0 5px;
+  display: inline-block;
+  color: var(--color-blue);
+  background-color: var(--color-background);
+  transition: 0.25s ease;
+}
+.background .container-register-body #form-register .form-field .form-input.error {
+  border-color: var(--color-error);
+}
+.background .container-register-body #form-register .form-field .form-input.error + .form-label {
+  color: var(--color-error);
+}
+.background .container-register-body #form-register .form-field .form-label {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 14px;
+  color: var(--color-blue);
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  pointer-events: none;
+}
+.background .container-register-body #form-register .form-field .form-label.error {
+  color: var(--color-error);
+}
+.background .container-register-body #form-register .form-field .form-input-icon {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.background .container-register-body #form-register .form-field .form-input-icon i {
+  position: absolute;
+  right: 10px;
+  font-size: 18px;
+  padding: 5px;
+  color: var(--color-blue);
+}
+.background .container-register-body #form-register .form-field .form-input-icon .form-input {
+  width: 100%;
+  height: 58px;
+  padding: 0px 12px;
+  border-radius: 8px;
+  transition: 0.25s ease;
+  border: 2px solid var(--color-blue);
+}
+.background .container-register-body #form-register .form-field .form-input-icon + .form-label {
+  top: 0px;
+  padding: 0 5px;
+  display: inline-block;
+  color: var(--color-blue);
+  background-color: var(--color-background);
+  transition: 0.25s ease;
+}
+.background .container-register-body #form-register .form-field .form-input-icon.error + .form-label {
+  color: var(--color-error);
+}
+.background .container-register-body #form-register .form-field .form-input-icon.error i {
+  color: var(--color-error);
+}
+.background .container-register-body #form-register .form-field .form-input-icon.error .form-input {
+  border-color: var(--color-error);
+}
+.background .container-register-body #form-register #btnRegister {
+  font-weight: 500;
+  font-size: 15px;
+  color: #FFFFFF;
+  letter-spacing: 0.46px;
+  text-transform: uppercase;
+  width: 100%;
+  padding: 16px 32px;
+  background: #D51F35;
+  box-shadow: 0px 6px 18px -8px rgba(76, 78, 100, 0.56);
+  border-radius: 8px;
+}
+.background .container-register-body #form-register .error-message {
+  width: 100%;
+  display: block;
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--color-error);
+  text-align: left;
+  letter-spacing: 0.4px;
+  margin-top: 8px;
+  opacity: 0;
+  visibility: hidden;
+}
+.background .container-register .has-account {
+  font-weight: 400;
+  font-size: 16px;
+  color: #79869E;
+  text-align: center;
+  margin-bottom: 32px;
+}
+.background .container-register .has-account a {
+  color: var(--color-red);
+}

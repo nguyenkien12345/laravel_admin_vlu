@@ -1,0 +1,232 @@
+$previewInfo: preview-info;
+$tableTalentRegister: tableTalentRegister;
+$fullWidth: 100%;
+$wrapper: wrapper;
+
+$text-aligns: (
+    'left': left,
+    'right': right,
+    'center': center,
+);
+
+@function textAligns($type) {
+    @return map-get($text-aligns, $type);
+}
+
+@mixin flex($type) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    @if($type =='row') {
+        flex-direction: row;
+    }
+
+    @else {
+        flex-direction: column;
+    }
+}
+
+@mixin font($fontWeight, $fontSize, $color) {
+    font-weight: $fontWeight;
+    font-size: $fontSize;
+    color: $color;
+}
+
+@mixin width-height($width, $height) {
+    width: $width;
+    height: $height;
+}
+
+@mixin center-text() {
+    display: block;
+    text-align: textAligns('center');
+}
+
+.container-#{$previewInfo} {
+    .title-#{$previewInfo} {
+        @include font(700, 24px, #1F2251);
+        @include center-text();
+        text-transform: uppercase;
+        margin-bottom: 8px;
+    }
+
+    .description-#{$previewInfo} {
+        @include font(400, 16px, #212121);
+        letter-spacing: 0.15px;
+        @include center-text();
+    }
+
+    .table-#{$previewInfo} {
+        margin: 0px 20px;
+
+        table {
+            width: $fullWidth;
+            &>:not(:first-child) {
+                border: {
+                    top: 0px
+                }
+
+                ;
+            }
+
+            tr {
+                th {
+                    @include font(600, 16px, #1F2251);
+                    letter-spacing: 0.17px;
+                    text-transform: uppercase;
+                    text-align: textAligns('center');
+                    border-right: 5px solid #fff;
+                    background: rgba(0, 0, 0, 0.06);
+                    padding: 24px 12px;
+                    vertical-align: middle;
+
+                    &:last-child {
+                        border-right: 0px;
+                    }
+                }
+
+                td {
+                    @include font(400, 16px, #596274);
+                    letter-spacing: 0.15px;
+                    padding: 24px 12px;
+
+                    border: {
+                        top: 5px solid #fff;
+                        right: 5px solid #fff;
+                    }
+
+                    ;
+                    background: #FAFAFA;
+
+                    &:last-child {
+                        border-right: 0px;
+                    }
+                }
+            }
+        }
+    }
+
+    .#{$wrapper}-score {
+        margin: 0px 20px 20px 20px;
+        .list-score {
+            @include flex('row');
+            .item-score-11, .item-score-12, .item-score-english-12 {
+                width: 33.33%;
+               .titlte-average-score, .titlte-score-semester1, .titlte-score-semester2 {
+                @include font(600, 16px, #1F2251);
+                letter-spacing: 0.17px;
+                margin-bottom: 10px;
+                .value-score {
+                    margin-left: 8px;
+                    @include font(00, 18px, #596274);
+                    letter-spacing: 0.15px;
+                }
+               }
+            }
+            .item-score-12, .item-score-english-12 {
+                margin-left: 30px;
+            }
+            .item-score-11, .item-score-12 {
+                border-right: 3px solid #ccc;
+            }
+        }
+
+        .certificate-english {
+            @include font(600, 16px, #1F2251);
+            letter-spacing: 0.17px;
+            margin: 10px 0px;
+        }
+    }
+
+    .#{$wrapper}-university-national {
+        margin: 0px 20px 20px 20px;
+        p {
+            @include font(600, 16px, #1F2251);
+            letter-spacing: 0.17px;
+            margin-right: 8px;
+            margin-bottom: 10px;
+            .value-university-national {
+                @include font(00, 18px, #596274);
+                letter-spacing: 0.15px;
+            }
+        }
+    }
+
+    .wrapper-score-straight {
+        margin: 0px 20px 20px 20px;
+        width: $fullWidth;
+        .wrapper-score-straight-11, .wrapper-score-straight-12, .wrapper-score-straight-12-semester1 {
+            .title-score-straight {
+                display: block;
+                @include font(600, 16px, #1F2251);
+                letter-spacing: 0.17px;
+                margin: 10px 0px;
+            }
+            .label-subject {
+                display: inline-block;
+                width: 15%;
+                @include font(600, 16px, #1F2251);
+                letter-spacing: 0.17px;
+                margin: 10px 0px;
+                text-align: textAligns('center');
+                .value-score {
+                    @include font(00, 18px, #596274);
+                    letter-spacing: 0.15px;
+                    margin-left: 8px;
+                }
+            }
+        }
+        .wrapper-score-straight-11 {
+            margin-bottom: 20px;
+        }
+    }
+
+    .certificate-english-straight {
+        @include font(600, 16px, #1F2251);
+        letter-spacing: 0.17px;
+        margin-right: 8px;
+        margin-bottom: 10px;
+        margin: 20px;
+    }
+
+    .wrapper-achievements {
+        margin: 20px;
+        display: flex;
+        flex-direction: column;
+        p {
+            margin: 10px 0px;
+            @include font(600, 16px, #1F2251);
+            letter-spacing: 0.17px;
+            .value-achievement {
+                @include font(00, 18px, #596274);
+                letter-spacing: 0.15px;
+                margin-left: 8px;
+            }
+        }
+    }
+
+    .#{$wrapper}-btns {
+        @include flex('row');
+        margin: 20px 0px 40px 0px;
+        .btn-priview-info-register {
+            @include width-height(30%, 40px);
+            letter-spacing: 0.46px;
+            text-transform: uppercase;
+            padding: 8px 34px;
+            text-align: textAligns('center');
+            border-radius: 8px;
+        }
+        #btnBackToSeach {
+            @include font(500, 15px, #666CFF);
+            background: #FFFFFF;
+            border: 1px solid #666CFF;
+            margin-right: 40px;
+        }
+        #btnPrintFormRegister {
+            @include font(500, 15px, #FFFFFF);
+            background: #666CFF;
+            border: 1px solid transparent;
+        }
+    }
+}

@@ -1,0 +1,148 @@
+@charset "UTF-8";
+.container-academic-transcripts {
+  width: 640px;
+}
+.container-academic-transcripts .wrapper-academic-transcripts-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.container-academic-transcripts .wrapper-academic-transcripts-title .academic-transcripts-title {
+  width: 486px;
+  font-weight: 700;
+  font-size: 24px;
+  color: #1F2251;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 32px;
+  margin-bottom: 46px;
+}
+.container-academic-transcripts .academic-transcripts-types {
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+  line-height: 24px;
+  letter-spacing: 0.15px;
+  margin-bottom: 26px;
+}
+.container-academic-transcripts .academic-transcripts-two-types {
+  margin-bottom: 8px;
+}
+.container-academic-transcripts .academic-transcripts-two-types li {
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+  letter-spacing: 0.15px;
+  margin-left: 24px;
+}
+.container-academic-transcripts .academic-transcripts-two-types li:first-child {
+  margin-bottom: 12px;
+}
+.container-academic-transcripts .academic-transcripts-two-types li::before {
+  content: "●";
+  color: black;
+  font-size: 10px;
+  margin-right: 7px;
+}
+.container-academic-transcripts .academic-transcripts-two-types-description {
+  display: block;
+  line-height: 24px;
+  margin-left: 34px;
+  margin-bottom: 26px;
+}
+.container-academic-transcripts .academic-transcripts-condition-title {
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+  text-align: left;
+  letter-spacing: 0.15px;
+  margin-bottom: 26px;
+}
+.container-academic-transcripts .academic-transcripts-condition-title-1, .container-academic-transcripts .academic-transcripts-condition-title-2 {
+  line-height: 24px;
+  position: relative;
+  padding-left: 24px;
+}
+.container-academic-transcripts .academic-transcripts-condition-title-1::before, .container-academic-transcripts .academic-transcripts-condition-title-2::before {
+  content: "";
+  position: absolute;
+  top: 15%;
+  left: 0;
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background-color: black;
+  transform: translateY(15%);
+}
+.container-academic-transcripts .academic-transcripts-condition-title-1 {
+  margin-bottom: 8px;
+}
+.container-academic-transcripts .academic-transcripts-condition-title-2 {
+  margin-bottom: 24px;
+}
+.container-academic-transcripts .academic-transcripts-condition-list {
+  line-height: 24px;
+  margin-left: 24px;
+  margin-bottom: 26px;
+}
+.container-academic-transcripts .academic-transcripts-condition-list li {
+  margin-bottom: 12px;
+}
+.container-academic-transcripts .academic-transcripts-condition-list li::before {
+  content: "●";
+  color: black;
+  font-size: 10px;
+  margin-right: 7px;
+}
+.container-academic-transcripts .highlight-text {
+  font-weight: bolder;
+}
+.container-academic-transcripts .academic-transcripts-time {
+  margin-bottom: 26px;
+}
+.container-academic-transcripts .academic-transcripts-time .academic-transcripts-time-title {
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+  text-align: left;
+  letter-spacing: 0.15px;
+  margin-bottom: 26px;
+}
+.container-academic-transcripts .academic-transcripts-time .academic-transcripts-time-list {
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+  letter-spacing: 0.15px;
+  line-height: 24px;
+  margin-left: 24px;
+}
+.container-academic-transcripts .academic-transcripts-time .academic-transcripts-time-list li {
+  margin-bottom: 12px;
+}
+.container-academic-transcripts .academic-transcripts-time .academic-transcripts-time-list li::before {
+  content: "●";
+  color: black;
+  font-size: 10px;
+  margin-right: 7px;
+}
+.container-academic-transcripts .academic-transcripts-submit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.container-academic-transcripts .academic-transcripts-submit .btnApplyAcademic {
+  font-weight: 500;
+  font-size: 15px;
+  color: #FFFFFF;
+  letter-spacing: 0.46px;
+  text-transform: uppercase;
+  background: #666CFF;
+  box-shadow: 0px 4px 8px -4px rgba(76, 78, 100, 0.42);
+  border-radius: 8px;
+  text-align: center;
+  padding: 12px 32px;
+  min-width: 278px;
+  margin-bottom: 32px;
+}

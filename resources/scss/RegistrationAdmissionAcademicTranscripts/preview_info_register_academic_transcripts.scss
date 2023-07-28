@@ -1,0 +1,55 @@
+$fullwidth: 100%;
+$previewInfoRegisterAcademicTranscripts: preview_info_register_academic_transcripts;
+
+$text-aligns: (
+    'left': left,
+    'right': right,
+    'center': center,
+);
+
+@function textAligns($type) {
+    @return map-get($text-aligns, $type);
+}
+
+@mixin flex($type) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    @if($type == 'row') {
+        flex-direction: row;
+    }
+    @else {
+        flex-direction: column;
+    }
+}
+
+@mixin font($fontWeight, $fontSize, $color) {
+    font-weight: $fontWeight;
+    font-size: $fontSize;
+    color: $color;
+}
+
+@mixin width-height($width, $height){
+    width: $width;
+    height: $height;
+}
+
+@mixin center-text() {
+    display: block;
+    text-align: textAligns('center');
+}
+
+.container-#{$previewInfoRegisterAcademicTranscripts} {
+    .title-#{$previewInfoRegisterAcademicTranscripts} {
+        @include font(700, 24px, #1F2251);
+        @include center-text();
+        text-transform: uppercase;
+        margin-bottom: 8px;
+    }
+
+    .description-#{$previewInfoRegisterAcademicTranscripts} {
+        @include font(400, 16px, #212121);
+        letter-spacing: 0.15px;
+        @include center-text();
+    }
+}

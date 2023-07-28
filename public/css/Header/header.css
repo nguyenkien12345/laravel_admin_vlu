@@ -1,0 +1,199 @@
+.container-header {
+    width: 100%;
+    min-height: 196px;
+}
+.top-header {
+    width: 100%;
+    padding: 40px 24px 14px;
+    background: #FFFFFF;
+    border-bottom: 1px solid rgba(76, 78, 100, 0.12);
+    height: 124px;
+}
+
+.fl-sb {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-img {
+    height: 70px;
+    width: auto;
+}
+.menu-img {
+    display: none;
+}
+
+.box-btn {
+    width: 268px;
+    height: 40px;
+}
+
+.btn-header {
+    width: 122px;
+    height: 40px;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.bottom-header {
+    width: 100%;
+    min-height: 72px;
+    padding: 12px 68px;
+    background: #FFFFFF;
+}
+
+.wrap-select {
+    flex-wrap: wrap;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: rgba(93, 106, 130, 0.78);
+}
+.select2-container--default .select2-results__option--highlighted.select2-results__option--selectable {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: rgba(93, 106, 130, 0.78);
+}
+
+.select2-results__option--selectable {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: rgba(93, 106, 130, 0.78);
+}
+.select2-container--default .select2-selection--single {
+    border: 1px solid rgba(93, 106, 130, 0.78) !important;
+    border-radius: 8px !important;
+    display: flex !important;
+    align-items: center;
+}
+.select2-container .select2-selection--single {
+    height: 40px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    top: 6px !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: rgba(93, 106, 130, 0.78) !important; 
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.select2-results__option--selectable {
+    text-align: start !important;
+}
+
+.select2-container--default .select2-results>.select2-results__options {
+    max-height: unset !important;
+    overflow-y: hidden !important;
+}
+.select2-container--default .select2-results__option--highlighted.select2-results__option--selectable {
+    background-color: #F2F2F2 !important;
+    color: #4C4E64 !important;
+}
+.select2-container--open .select2-dropdown--below {
+    border-top-left-radius: 4px !important;
+    border-top-right-radius: 4px !important;
+}   
+.select2-container--default .select2-results__option--selected {
+    background-color: #F2F2F2 !important;  
+}
+
+.select2-dropdown {
+    overflow: hidden;
+    border: none !important;
+    background-color: #FFFFFF !important;
+}
+
+.btn-item {
+    padding: 0px 16px;
+    height: 40px;
+    border: 1px solid rgba(93, 106, 130, 0.78);
+    border-radius: 8px;
+    background: #FFFFFF;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: rgba(93, 106, 130, 0.78);
+}
+
+.fl-st {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+}
+
+.select2-container {
+    margin: 0.25rem !important;
+}
+
+@media screen and (max-width: 1280px) {
+    .bottom-header {
+        padding: 12px 40px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .bottom-header {
+        padding: 12px 24px;
+    }
+}
+
+@media screen and   (max-width: 480px) {
+    .container-header {
+        min-height: unset;
+        height: 44px;
+    }
+    .top-header {
+        height: 100%;
+        padding: 12px 16px;
+    }
+    .logo-img {
+        height: 21px;
+    }
+    .box-btn {
+        width: 108px;
+        height: 24px;
+    }
+    .btn-header {
+        width: 72px;
+        height: 24px; 
+        border-radius: 4px;
+        font-size: 10px;
+    }
+    .btn-register {
+        display: none;
+    }
+    .menu-img {
+        display: block;
+        width: 24px;
+        height: auto;
+    }
+    .bottom-header {
+        display: none;
+    }
+}

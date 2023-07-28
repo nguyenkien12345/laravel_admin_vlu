@@ -1,0 +1,17 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/Authentication/forgot_password.css": "/css/Authentication/forgot_password.css",
+    "/css/Authentication/send_otp.css": "/css/Authentication/send_otp.css",
+    "/css/Authentication/notification_register.css": "/css/Authentication/notification_register.css",
+    "/css/Authentication/login.css": "/css/Authentication/login.css",
+    "/css/Authentication/register.css": "/css/Authentication/register.css",
+    "/css/app.css": "/css/app.css",
+    "/css/RegisterAdmissions/upload_image.css": "/css/RegisterAdmissions/upload_image.css",
+    "/css/Loader/index.css": "/css/Loader/index.css",
+    "/css/RegistrationAdmissionAcademicTranscripts/preview_info_register_academic_transcripts.css": "/css/RegistrationAdmissionAcademicTranscripts/preview_info_register_academic_transcripts.css",
+    "/css/RegistrationAdmissionAcademicTranscripts/index.css": "/css/RegistrationAdmissionAcademicTranscripts/index.css",
+    "/css/SearchProfiles/preview_info_register.css": "/css/SearchProfiles/preview_info_register.css",
+    "/css/SearchProfiles/search_profiles.css": "/css/SearchProfiles/search_profiles.css",
+    "/css/Faq/faq.css": "/css/Faq/faq.css",
+    "/css/Authentication/reset_password.css": "/css/Authentication/reset_password.css"
+}

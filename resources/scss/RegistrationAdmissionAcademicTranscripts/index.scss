@@ -1,0 +1,179 @@
+$fullwidth: 100%;
+$academicTranscripts: academic-transcripts;
+
+$text-aligns: (
+    'left': left,
+    'right': right,
+    'center': center,
+);
+
+@function textAligns($type) {
+    @return map-get($text-aligns, $type);
+}
+
+@mixin flex($type) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    @if($type == 'row') {
+        flex-direction: row;
+    }
+    @else {
+        flex-direction: column;
+    }
+}
+
+@mixin font($fontWeight, $fontSize, $color) {
+    font-weight: $fontWeight;
+    font-size: $fontSize;
+    color: $color;
+}
+
+@mixin width-height($width, $height){
+    width: $width;
+    height: $height;
+}
+
+@mixin create-circle(){
+    content: "●";
+    color: black;
+    font-size: 10px;
+    margin-right: 7px;
+}
+
+@mixin create-square(){
+    content: "";
+    position: absolute;
+    top: 15%;
+    left: 0;
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background-color: black;
+    transform: translateY(15%);
+}
+
+@mixin title-admission(){
+    @include font(700, 16px, #000000);
+    text-align: textAligns('left');
+    letter-spacing: 0.15px;
+    margin-bottom: 26px;
+}
+
+.container-academic-transcripts {
+    width: 640px;
+    .wrapper-#{$academicTranscripts}-title {
+        @include flex('row');
+        .#{$academicTranscripts}-title {
+            width: 486px;
+            @include font(700, 24px, #1F2251);
+            text-align: textAligns('center');
+            text-transform: uppercase;
+            line-height: 32px;
+            margin-bottom: 46px;
+        }
+    }
+
+    .#{$academicTranscripts}-types {
+        @include font(400, 16px, #000000);
+        line-height: 24px;
+        letter-spacing: 0.15px;
+        margin-bottom: 26px;
+    }
+
+    .#{$academicTranscripts}-two-types {
+        margin-bottom: 8px;
+        li {
+            @include font(400, 16px, #000000);
+            letter-spacing: 0.15px;
+            margin-left: 24px;
+            &:first-child {
+                margin-bottom: 12px;
+            }
+            &::before {
+                @include create-circle();
+            }
+        }
+    }
+
+    .#{$academicTranscripts}-two-types-description {
+        display: block;
+        line-height: 24px;
+        margin-left: 34px;
+        margin-bottom: 26px;
+    }
+
+    .#{$academicTranscripts}-condition {
+        &-title {
+            @include title-admission();
+        }
+
+        &-title-1, &-title-2  {
+            line-height: 24px;
+            position: relative;
+            padding-left: 24px;
+            &::before {
+                @include create-square();
+            }
+        }
+
+        &-title-1 {
+            margin-bottom: 8px;
+        }
+
+        &-title-2 {
+            margin-bottom: 24px;
+        }
+
+        &-list {
+            line-height: 24px;
+            margin-left: 24px;
+            margin-bottom: 26px;
+            li {
+                margin-bottom: 12px;
+                &::before {
+                   @include create-circle();
+                }
+            }
+        }
+    }
+
+    .highlight-text {
+        font-weight: bolder;
+    }
+
+    .#{$academicTranscripts}-time {
+        margin-bottom: 26px;
+        .#{$academicTranscripts}-time-title {
+            @include title-admission();
+        }
+        .#{$academicTranscripts}-time-list {
+            @include font(400, 16px, #000000);
+            letter-spacing: 0.15px;
+            line-height: 24px;
+            margin-left: 24px;
+            li {
+                margin-bottom: 12px;
+                &::before {
+                    @include create-circle();
+                }
+            }
+        }
+    }
+
+    .#{$academicTranscripts}-submit {
+        @include flex('row');
+        .btnApplyAcademic {
+            @include font(500, 15px, #FFFFFF);
+            letter-spacing: 0.46px;
+            text-transform: uppercase;
+            background: #666CFF;
+            box-shadow: 0px 4px 8px -4px rgba(76, 78, 100, 0.42);
+            border-radius: 8px;
+            text-align: textAligns('center');
+            padding: 12px 32px;
+            min-width: 278px;
+            margin-bottom: 32px;
+        }
+    }
+}

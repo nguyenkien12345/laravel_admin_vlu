@@ -1,0 +1,138 @@
+.container-upload-images-register-talent .upload-images-register-talent-top {
+  margin-bottom: 40px;
+}
+.container-upload-images-register-talent .upload-images-register-talent-top .title-preview-info-top {
+  font-weight: 700;
+  font-size: 24px;
+  color: #1F2251;
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+.container-upload-images-register-talent .upload-images-register-talent-top .description-preview-info-top {
+  font-weight: 400;
+  font-size: 16px;
+  color: #212121;
+  letter-spacing: 0.15px;
+  display: block;
+  text-align: center;
+}
+.container-upload-images-register-talent .upload-images-register-talent-body .title-preview-info-body {
+  font-weight: 600;
+  font-size: 15px;
+  color: #D72134;
+  letter-spacing: 0.15px;
+  margin-bottom: 28px;
+}
+.container-upload-images-register-talent .upload-images-register-talent-body .info-preview-info-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 24px 0px;
+  margin-bottom: 10px;
+}
+.container-upload-images-register-talent .upload-images-register-talent-body .info-preview-info-body .image-preview-info-body {
+  width: 20px;
+  height: 20px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  margin-right: 12px;
+}
+.container-upload-images-register-talent .upload-images-register-talent-body .info-preview-info-body .description-preview-info-body {
+  font-weight: 400;
+  font-size: 15px;
+  color: #4C4E64;
+  letter-spacing: 0.46px;
+}
+.container-upload-images-register-talent .upload-images-register-talent-body #form-upload-image-selfie {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.container-upload-images-register-talent .upload-images-register-talent-body #form-upload-image-selfie .form-field {
+  width: 250px;
+  height: 330px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px dashed #6D788D;
+  padding: 48px 8px;
+  border-radius: 12px;
+  margin-bottom: 16px;
+  background: #FFFFFF;
+  position: relative;
+}
+.container-upload-images-register-talent .upload-images-register-talent-body #form-upload-image-selfie .form-field .form-input {
+  display: none;
+}
+.container-upload-images-register-talent .upload-images-register-talent-body #form-upload-image-selfie .form-field .form-label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  cursor: pointer;
+  z-index: 1000;
+}
+.container-upload-images-register-talent .upload-images-register-talent-body #form-upload-image-selfie .form-field .form-label .image-selfie-icon {
+  width: 40px;
+  height: 27px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  margin-bottom: 23px;
+}
+.container-upload-images-register-talent .upload-images-register-talent-body #form-upload-image-selfie .form-field .form-label .image-selfie-text {
+  font-weight: 600;
+  font-size: 14px;
+  color: #1F2251;
+  text-align: center;
+  letter-spacing: 0.17px;
+  margin: 0px 5px;
+}
+.container-upload-images-register-talent .upload-images-register-talent-body #form-upload-image-selfie .progress-upload-image-selfie {
+  margin-bottom: 36px;
+}
+.container-upload-images-register-talent .upload-images-register-talent-body #form-upload-image-selfie .btns-upload-image-selfie {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.container-upload-images-register-talent .upload-images-register-talent-body #form-upload-image-selfie .btns-upload-image-selfie #btnBack {
+  letter-spacing: 0.46px;
+  text-transform: uppercase;
+  text-align: center;
+  width: 240px;
+  height: 40px;
+  padding: 10px 34px;
+  background: var(--color-background);
+  font-weight: 500;
+  font-size: 16px;
+  color: #666CFF;
+  border: 1px solid #666CFF;
+  border-radius: 8px;
+  margin-right: 36px;
+}
+.container-upload-images-register-talent .upload-images-register-talent-body #form-upload-image-selfie .btns-upload-image-selfie #btnPreviewProfile {
+  letter-spacing: 0.46px;
+  text-transform: uppercase;
+  text-align: center;
+  width: 240px;
+  height: 40px;
+  padding: 10px 34px;
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+  background: #666CFF;
+  box-shadow: 0px 4px 8px -4px rgba(76, 78, 100, 0.42);
+  border-radius: 8px;
+}

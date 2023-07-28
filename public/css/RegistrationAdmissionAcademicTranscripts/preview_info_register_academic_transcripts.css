@@ -1,0 +1,17 @@
+.container-preview_info_register_academic_transcripts .title-preview_info_register_academic_transcripts {
+  font-weight: 700;
+  font-size: 24px;
+  color: #1F2251;
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+.container-preview_info_register_academic_transcripts .description-preview_info_register_academic_transcripts {
+  font-weight: 400;
+  font-size: 16px;
+  color: #212121;
+  letter-spacing: 0.15px;
+  display: block;
+  text-align: center;
+}

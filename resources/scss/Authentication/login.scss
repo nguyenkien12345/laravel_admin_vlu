@@ -1,0 +1,235 @@
+:root {
+    --color-blue: #458FCD;
+    --color-red: #D72134;
+    --color-background: #FAFAFA;
+    --color-error: #FF4D49;
+}
+
+$login: login;
+$form: form;
+$fullWidth: 100%;
+
+$text-aligns: (
+    'left': left,
+    'right': right,
+    'center': center,
+);
+
+@function textAligns($type) {
+    @return map-get($text-aligns, $type);
+}
+
+@mixin flex($type) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    @if($type =='row') {
+        flex-direction: row;
+    }
+
+    @else {
+        flex-direction: column;
+    }
+}
+
+@mixin font($fontWeight, $fontSize, $color) {
+    font-weight: $fontWeight;
+    font-size: $fontSize;
+    color: $color;
+}
+
+@mixin width-height($width, $height) {
+    width: $width;
+    height: $height;
+}
+
+@mixin effectInput() {
+    top: 0px;
+    padding: 0 5px;
+    display: inline-block;
+    color: var(--color-blue);
+    background-color: var(--color-background);
+    transition: 0.25s ease;
+}
+
+.background {
+    @include width-height(100vw, 100vh);
+
+    background: {
+        size: cover;
+        repeat: no-repeat;
+    }
+
+    ;
+
+    @include flex('row');
+    object-fit: cover;
+
+    .container-#{$login} {
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+        display: flex;
+        flex-direction: column;
+        min-width: 512px;
+        min-height: 642px;
+        height: auto;
+        border-radius: 24px;
+        overflow: hidden;
+        background: var(--color-background);
+
+        &-top {
+            height: 160px;
+            width: $fullWidth;
+            background: var(--color-red);
+        }
+
+        &-body {
+            position: relative;
+            width: $fullWidth;
+
+            .circle-icons {
+                @include width-height(200px, 200px);
+                padding: 48px;
+                background: var(--color-background);
+                border-radius: 50%;
+                border: none;
+                outline: none;
+                @include flex('row');
+                position: absolute;
+                z-index: 1;
+                top: -100px;
+                left: 50%;
+                transform: translateX(-50%);
+                z-index: 1;
+
+                img {
+                    width: $fullWidth;
+                    display: block;
+                    object-fit: cover;
+                    margin: 10px;
+                }
+            }
+
+            #form-#{$login} {
+                margin: 120px 56px 32px 56px;
+
+                .#{$form}-field {
+                    position: relative;
+                    margin-bottom: 24px;
+
+                    .#{$form}-input {
+                        @include width-height($fullWidth, 58px);
+                        padding: 0px 12px;
+                        border-radius: 8px;
+                        transition: 0.25s ease;
+                        border: 2px solid var(--color-blue);
+
+                        &:focus,
+                        &:active {
+                            outline: none;
+                        }
+
+                        &+.#{$form}-label {
+                            @include effectInput();
+                        }
+
+                        &.error {
+                            border-color: var(--color-error);
+                        }
+
+                        &.error+.#{$form}-label {
+                            color: var(--color-error);
+                        }
+                    }
+
+                    .#{$form}-label {
+                        position: absolute;
+                        top: 50%;
+                        transform: translateY(-50%);
+                        left: 14px;
+                        color: var(--color-blue);
+                        user-select: none;
+                        pointer-events: none;
+
+                        &.error {
+                            color: var(--color-error);
+                        }
+                    }
+
+                    .#{$form}-input-icon {
+                        position: relative;
+                        width: $fullWidth;
+                        @include flex('row');
+
+                        i {
+                            position: absolute;
+                            right: 10px;
+                            font-size: 18px;
+                            padding: 5px;
+                            color: var(--color-blue);
+                        }
+
+                        .#{$form}-input {
+                            @include width-height($fullWidth, 58px);
+                            padding: 0px 12px;
+                            border-radius: 8px;
+                            transition: 0.25s ease;
+                            border: 2px solid var(--color-blue);
+                        }
+
+                        &+.#{$form}-label {
+                            @include effectInput();
+                        }
+
+                        &.error+.#{$form}-label {
+                            color: var(--color-error);
+                        }
+
+                        &.error i {
+                            color: var(--color-error);
+                        }
+
+                        &.error .#{$form}-input {
+                            border-color: var(--color-error);
+                        }
+                    }
+                }
+
+                #btnLogin {
+                    @include font(500, 15px, #FFFFFF);
+                    letter-spacing: 0.46px;
+                    text-transform: uppercase;
+                    width: $fullWidth;
+                    padding: 16px 32px;
+                    background: #D51F35;
+                    box-shadow: 0px 6px 18px -8px rgba(76, 78, 100, 0.56);
+                    border-radius: 8px;
+                }
+
+                .error-message {
+                    width: $fullWidth;
+                    display: block;
+                    @include font(400, 12px, var(--color-error));
+                    text-align: textAligns('left');
+                    letter-spacing: 0.4px;
+                    margin-top: 8px;
+                    opacity: 0;
+                    visibility: hidden;
+                }
+            }
+        }
+
+        &-footer {
+            margin: 0px 56px;
+            display: flex;
+            justify-content: space-between;
+
+            #forgotPassword,
+            #btnRegister {
+                @include font(400, 14px, var(--color-blue));
+                letter-spacing: 0.15px;
+            }
+        }
+    }
+}

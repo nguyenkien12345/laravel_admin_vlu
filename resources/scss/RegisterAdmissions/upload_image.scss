@@ -1,0 +1,171 @@
+$uploadImagesRegisterTalent: upload-images-register-talent;
+$titlePreviewInfo : title-preview-info;
+$descriptionPreviewInfo: description-preview-info;
+$previewInfoBody: preview-info-body;
+$imageSelfie: image-selfie;
+$uploadImageSelfie: upload-image-selfie;
+
+$text-aligns: (
+    'left': left,
+    'right': right,
+    'center': center,
+);
+
+@function textAligns($type) {
+    @return map-get($text-aligns, $type);
+}
+
+@mixin flex($type) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    @if($type =='row') {
+        flex-direction: row;
+    }
+
+    @else {
+        flex-direction: column;
+    }
+}
+
+@mixin font($fontWeight, $fontSize, $color) {
+    font-weight: $fontWeight;
+    font-size: $fontSize;
+    color: $color;
+}
+
+@mixin width-height($width, $height) {
+    width: $width;
+    height: $height;
+}
+
+@mixin center-text() {
+    display: block;
+    text-align: textAligns('center');
+}
+
+.container-#{$uploadImagesRegisterTalent} {
+    .#{$uploadImagesRegisterTalent}-top {
+        margin-bottom: 40px;
+        .#{$titlePreviewInfo}-top {
+            @include font(700, 24px, #1F2251);
+            @include center-text();
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+
+        .#{$descriptionPreviewInfo}-top {
+            @include font(400, 16px, #212121);
+            letter-spacing: 0.15px;
+            @include center-text();
+        }
+    }
+
+    .#{$uploadImagesRegisterTalent}-body {
+        .#{$titlePreviewInfo}-body {
+            @include font(600, 15px, #D72134);
+            letter-spacing: 0.15px;
+            margin-bottom: 28px;
+        }
+
+        .info-#{$previewInfoBody} {
+            @include flex('row');
+            justify-content: flex-start;
+            padding: 24px 0px;
+            margin-bottom: 10px;
+            .image-#{$previewInfoBody} {
+                @include width-height(20px, 20px);
+                object-fit: cover;
+                margin-right: 12px;
+            }
+
+            .#{$descriptionPreviewInfo}-body {
+                @include font(400, 15px,#4C4E64);
+                letter-spacing: 0.46px;
+
+            }
+        }
+
+        #form-#{$uploadImageSelfie}{
+            @include flex('column');
+
+            .form-field {
+                @include width-height(250px, 330px);
+                @include flex('column');
+                border: 1px dashed #6D788D;
+                padding: 48px 8px;
+                border-radius: 12px;
+                margin-bottom: 16px;
+                background: #FFFFFF;
+                position: relative;
+                .form-input {
+                    display: none;
+                }
+
+                .form-label {
+                    @include flex('column');
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    right: 0;
+                    bottom: 0;
+                    cursor: pointer;
+                    z-index: 1000;
+
+                    .#{$imageSelfie}-icon {
+                        @include width-height(40px, 27px);
+                        object-fit: cover;
+                        margin-bottom: 23px;
+                    }
+
+                    .#{$imageSelfie}-text {
+                        @include font(600, 14px, #1F2251);
+                        text-align: textAligns('center');
+                        letter-spacing: 0.17px;
+                        margin: 0px 5px;
+                    }
+                }
+            }
+
+            .progress-#{$uploadImageSelfie} {
+                margin-bottom: 36px;
+                .bar-#{$uploadImageSelfie} {
+
+                }
+
+                .percent-#{$uploadImageSelfie} {
+
+                }
+            }
+
+            .btns-#{$uploadImageSelfie} {
+                @include flex('row');
+                #btnBack {
+                    letter-spacing: 0.46px;
+                    text-transform: uppercase;
+                    text-align: center;
+                    @include width-height(240px, 40px);
+                    padding: 10px 34px;
+                    background: var(--color-background);
+                    @include font(500, 16px, #666CFF);
+                    border: 1px solid #666CFF;
+                    border-radius: 8px;
+                    margin-right: 36px;
+                }
+
+                #btnPreviewProfile {
+                    letter-spacing: 0.46px;
+                    text-transform: uppercase;
+                    text-align: center;
+                    @include width-height(240px, 40px);
+                    padding: 10px 34px;
+                    @include font(500, 16px, #FFFFFF);
+                    background: #666CFF;
+                    box-shadow: 0px 4px 8px -4px rgba(76, 78, 100, 0.42);
+                    border-radius: 8px;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+<?php
+
+return [
+    'array_first_3_numbers_phone' => [
+        '086' => '04',
+        '096' => '04',
+        '097' => '04',
+        '098' => '04',
+        '032' => '04',
+        '033' => '04',
+        '034' => '04',
+        '035' => '04',
+        '036' => '04',
+        '037' => '04',
+        '038' => '04',
+        '039' => '04',
+        '091' => '02',
+        '094' => '02',
+        '088' => '02',
+        '083' => '02',
+        '084' => '02',
+        '085' => '02',
+        '081' => '02',
+        '082' => '02',
+        '089' => '01',
+        '090' => '01',
+        '093' => '01',
+        '070' => '01',
+        '079' => '01',
+        '077' => '01',
+        '076' => '01',
+        '078' => '01',
+        '092' => '05',
+        '056' => '05',
+        '058' => '05',
+        '099' => '07',
+        '059' => '07',
+        '087' => '08'
+    ],
+    'link' => env('URL_OTP_VLU'),
+    'token' => 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c24iOiJ2bHUiLCJzaWQiOiI1YTZhM2M3My1kZTJkLTQ5NGMtYWVmYS0xNjFkYmMyMzM5MDAiLCJvYnQiOiIiLCJvYmoiOiIiLCJuYmYiOjE2ODAxNTc1NTcsImV4cCI6MTY4MDE2MTE1NywiaWF0IjoxNjgwMTU3NTU3fQ.MjCklgxHKgO2ITxHSTdcZ7FaRuHHfY5kHhtkNtLMTh8',
+    'from' => 'DH Van Lang'
+];

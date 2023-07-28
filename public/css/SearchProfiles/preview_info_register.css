@@ -1,0 +1,201 @@
+.container-preview-info .title-preview-info {
+  font-weight: 700;
+  font-size: 24px;
+  color: #1F2251;
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+.container-preview-info .description-preview-info {
+  font-weight: 400;
+  font-size: 16px;
+  color: #212121;
+  letter-spacing: 0.15px;
+  display: block;
+  text-align: center;
+}
+.container-preview-info .table-preview-info {
+  margin: 0px 20px;
+}
+.container-preview-info .table-preview-info table {
+  width: 100%;
+}
+.container-preview-info .table-preview-info table > :not(:first-child) {
+  border-top: 0px;
+}
+.container-preview-info .table-preview-info table tr th {
+  font-weight: 600;
+  font-size: 16px;
+  color: #1F2251;
+  letter-spacing: 0.17px;
+  text-transform: uppercase;
+  text-align: center;
+  border-right: 5px solid #fff;
+  background: rgba(0, 0, 0, 0.06);
+  padding: 24px 12px;
+  vertical-align: middle;
+}
+.container-preview-info .table-preview-info table tr th:last-child {
+  border-right: 0px;
+}
+.container-preview-info .table-preview-info table tr td {
+  font-weight: 400;
+  font-size: 16px;
+  color: #596274;
+  letter-spacing: 0.15px;
+  padding: 24px 12px;
+  border-top: 5px solid #fff;
+  border-right: 5px solid #fff;
+  background: #FAFAFA;
+}
+.container-preview-info .table-preview-info table tr td:last-child {
+  border-right: 0px;
+}
+.container-preview-info .wrapper-score {
+  margin: 0px 20px 20px 20px;
+}
+.container-preview-info .wrapper-score .list-score {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.container-preview-info .wrapper-score .list-score .item-score-11, .container-preview-info .wrapper-score .list-score .item-score-12, .container-preview-info .wrapper-score .list-score .item-score-english-12 {
+  width: 33.33%;
+}
+.container-preview-info .wrapper-score .list-score .item-score-11 .titlte-average-score, .container-preview-info .wrapper-score .list-score .item-score-11 .titlte-score-semester1, .container-preview-info .wrapper-score .list-score .item-score-11 .titlte-score-semester2, .container-preview-info .wrapper-score .list-score .item-score-12 .titlte-average-score, .container-preview-info .wrapper-score .list-score .item-score-12 .titlte-score-semester1, .container-preview-info .wrapper-score .list-score .item-score-12 .titlte-score-semester2, .container-preview-info .wrapper-score .list-score .item-score-english-12 .titlte-average-score, .container-preview-info .wrapper-score .list-score .item-score-english-12 .titlte-score-semester1, .container-preview-info .wrapper-score .list-score .item-score-english-12 .titlte-score-semester2 {
+  font-weight: 600;
+  font-size: 16px;
+  color: #1F2251;
+  letter-spacing: 0.17px;
+  margin-bottom: 10px;
+}
+.container-preview-info .wrapper-score .list-score .item-score-11 .titlte-average-score .value-score, .container-preview-info .wrapper-score .list-score .item-score-11 .titlte-score-semester1 .value-score, .container-preview-info .wrapper-score .list-score .item-score-11 .titlte-score-semester2 .value-score, .container-preview-info .wrapper-score .list-score .item-score-12 .titlte-average-score .value-score, .container-preview-info .wrapper-score .list-score .item-score-12 .titlte-score-semester1 .value-score, .container-preview-info .wrapper-score .list-score .item-score-12 .titlte-score-semester2 .value-score, .container-preview-info .wrapper-score .list-score .item-score-english-12 .titlte-average-score .value-score, .container-preview-info .wrapper-score .list-score .item-score-english-12 .titlte-score-semester1 .value-score, .container-preview-info .wrapper-score .list-score .item-score-english-12 .titlte-score-semester2 .value-score {
+  margin-left: 8px;
+  font-weight: 0;
+  font-size: 18px;
+  color: #596274;
+  letter-spacing: 0.15px;
+}
+.container-preview-info .wrapper-score .list-score .item-score-12, .container-preview-info .wrapper-score .list-score .item-score-english-12 {
+  margin-left: 30px;
+}
+.container-preview-info .wrapper-score .list-score .item-score-11, .container-preview-info .wrapper-score .list-score .item-score-12 {
+  border-right: 3px solid #ccc;
+}
+.container-preview-info .wrapper-score .certificate-english {
+  font-weight: 600;
+  font-size: 16px;
+  color: #1F2251;
+  letter-spacing: 0.17px;
+  margin: 10px 0px;
+}
+.container-preview-info .wrapper-university-national {
+  margin: 0px 20px 20px 20px;
+}
+.container-preview-info .wrapper-university-national p {
+  font-weight: 600;
+  font-size: 16px;
+  color: #1F2251;
+  letter-spacing: 0.17px;
+  margin-right: 8px;
+  margin-bottom: 10px;
+}
+.container-preview-info .wrapper-university-national p .value-university-national {
+  font-weight: 0;
+  font-size: 18px;
+  color: #596274;
+  letter-spacing: 0.15px;
+}
+.container-preview-info .wrapper-score-straight {
+  margin: 0px 20px 20px 20px;
+  width: 100%;
+}
+.container-preview-info .wrapper-score-straight .wrapper-score-straight-11 .title-score-straight, .container-preview-info .wrapper-score-straight .wrapper-score-straight-12 .title-score-straight, .container-preview-info .wrapper-score-straight .wrapper-score-straight-12-semester1 .title-score-straight {
+  display: block;
+  font-weight: 600;
+  font-size: 16px;
+  color: #1F2251;
+  letter-spacing: 0.17px;
+  margin: 10px 0px;
+}
+.container-preview-info .wrapper-score-straight .wrapper-score-straight-11 .label-subject, .container-preview-info .wrapper-score-straight .wrapper-score-straight-12 .label-subject, .container-preview-info .wrapper-score-straight .wrapper-score-straight-12-semester1 .label-subject {
+  display: inline-block;
+  width: 15%;
+  font-weight: 600;
+  font-size: 16px;
+  color: #1F2251;
+  letter-spacing: 0.17px;
+  margin: 10px 0px;
+  text-align: center;
+}
+.container-preview-info .wrapper-score-straight .wrapper-score-straight-11 .label-subject .value-score, .container-preview-info .wrapper-score-straight .wrapper-score-straight-12 .label-subject .value-score, .container-preview-info .wrapper-score-straight .wrapper-score-straight-12-semester1 .label-subject .value-score {
+  font-weight: 0;
+  font-size: 18px;
+  color: #596274;
+  letter-spacing: 0.15px;
+  margin-left: 8px;
+}
+.container-preview-info .wrapper-score-straight .wrapper-score-straight-11 {
+  margin-bottom: 20px;
+}
+.container-preview-info .certificate-english-straight {
+  font-weight: 600;
+  font-size: 16px;
+  color: #1F2251;
+  letter-spacing: 0.17px;
+  margin-right: 8px;
+  margin-bottom: 10px;
+  margin: 20px;
+}
+.container-preview-info .wrapper-achievements {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.container-preview-info .wrapper-achievements p {
+  margin: 10px 0px;
+  font-weight: 600;
+  font-size: 16px;
+  color: #1F2251;
+  letter-spacing: 0.17px;
+}
+.container-preview-info .wrapper-achievements p .value-achievement {
+  font-weight: 0;
+  font-size: 18px;
+  color: #596274;
+  letter-spacing: 0.15px;
+  margin-left: 8px;
+}
+.container-preview-info .wrapper-btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin: 20px 0px 40px 0px;
+}
+.container-preview-info .wrapper-btns .btn-priview-info-register {
+  width: 30%;
+  height: 40px;
+  letter-spacing: 0.46px;
+  text-transform: uppercase;
+  padding: 8px 34px;
+  text-align: center;
+  border-radius: 8px;
+}
+.container-preview-info .wrapper-btns #btnBackToSeach {
+  font-weight: 500;
+  font-size: 15px;
+  color: #666CFF;
+  background: #FFFFFF;
+  border: 1px solid #666CFF;
+  margin-right: 40px;
+}
+.container-preview-info .wrapper-btns #btnPrintFormRegister {
+  font-weight: 500;
+  font-size: 15px;
+  color: #FFFFFF;
+  background: #666CFF;
+  border: 1px solid transparent;
+}

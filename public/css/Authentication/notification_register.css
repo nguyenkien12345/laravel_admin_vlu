@@ -1,0 +1,90 @@
+:root {
+  --color-blue: #458FCD;
+  --color-red: #D72134;
+  --color-background: #FAFAFA;
+}
+
+.background {
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.background .container-notification {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  display: flex;
+  flex-direction: column;
+  min-width: 512px;
+  min-height: 576px;
+  height: auto;
+  border-radius: 24px;
+  overflow: hidden;
+  background: var(--color-background);
+}
+.background .container-notification-top {
+  height: 160px;
+  width: 100%;
+  background: var(--color-red);
+}
+.background .container-notification-body {
+  position: relative;
+  width: 100%;
+}
+.background .container-notification-body .circle-icons {
+  width: 200px;
+  height: 200px;
+  padding: 48px;
+  background: var(--color-background);
+  border-radius: 50%;
+  border: none;
+  outline: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  position: absolute;
+  z-index: 1;
+  top: -100px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+}
+.background .container-notification-body .circle-icons img {
+  width: 100%;
+  display: block;
+  -o-object-fit: cover;
+     object-fit: cover;
+  margin: 10px;
+}
+.background .container-notification-body .wrapper {
+  margin: 120px 56px 32px 56px;
+}
+.background .container-notification-body .wrapper .content-notification {
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--color-blue);
+  width: 400px;
+  text-align: center;
+  line-height: 24px;
+  letter-spacing: 0.15px;
+  margin-bottom: 32px;
+}
+.background .container-notification-body .wrapper #btnGoHomePage {
+  font-weight: 500;
+  font-size: 15px;
+  color: #FFFFFF;
+  letter-spacing: 0.46px;
+  text-transform: uppercase;
+  width: 100%;
+  padding: 16px 32px;
+  background: #D51F35;
+  box-shadow: 0px 6px 18px -8px rgba(76, 78, 100, 0.56);
+  border-radius: 8px;
+}

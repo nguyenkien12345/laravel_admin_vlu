@@ -1,0 +1,171 @@
+:root {
+    --color-error: #FF4D49;
+}
+
+$fullWidth: 100%;
+$fullHeight: 100%;
+$form: form;
+
+$text-aligns: (
+    'left': left,
+    'right': right,
+    'center': center,
+);
+
+@function textAligns($type) {
+    @return map-get($text-aligns, $type);
+}
+
+@mixin flex($type) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    @if($type == 'row') {
+        flex-direction: row;
+    }
+    @else {
+        flex-direction: column;
+    }
+}
+
+@mixin font($fontWeight, $fontSize, $color) {
+    font-weight: $fontWeight;
+    font-size: $fontSize;
+    color: $color;
+}
+
+@mixin width-height($width, $height){
+    width: $width;
+    height: $height;
+}
+
+@mixin effectInput(){
+    top: 0px;
+    padding: 0 5px;
+    display: inline-block;
+    color: #596274;
+    background-color: #FAFAFA;
+    transition: 0.25s ease;
+}
+
+.container-search-profiles {
+    #form-search-profile{
+        width: $fullWidth;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        .#{$form}-field {
+            position: relative;
+            width: $fullWidth;
+            .#{$form}-select {
+                @include width-height(100%, 58px);
+                padding: 0px 12px;
+                border-radius: 8px;
+                transition: 0.25s ease;
+                border: 1px solid #458FCD;
+                letter-spacing: 0.15px;
+                @include font(400, 15px, rgba(93, 106, 130, 0.78));
+
+                &:active, &:focus {
+                    border-color: #458FCD;
+                    outline: none;
+                }
+
+                & + .#{$form}-label {
+                    @include effectInput();
+                }
+
+                &.error:active, &.error:focus {
+                    border-color: var(--color-error);
+                    box-shadow: none;
+                    outline: none;
+                }
+
+                &.error {
+                    border-color: var(--color-error);
+                }
+
+                &.error+.#{$form}-label {
+                    color: var(--color-error);
+                }
+            }
+
+            .#{$form}-input {
+                @include width-height(100%, 58px);
+                padding: 0px 12px;
+                border-radius: 8px;
+                transition: 0.25s ease;
+                border: 1px solid #458FCD;
+                letter-spacing: 0.15px;
+                @include font(400, 15px, rgba(93, 106, 130, 0.78));
+
+                &:active, &:focus {
+                    border-color: #458FCD;
+                    outline: none;
+                }
+
+                & + .#{$form}-label {
+                    @include effectInput();
+                }
+
+                &.error {
+                    border-color: var(--color-error);
+                }
+
+                &.error+.#{$form}-label {
+                    color: var(--color-error);
+                }
+            }
+
+            .#{$form}-label {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                left: 14px;
+                @include font(400, 13px, #596274);
+                user-select: none;
+                pointer-events: none;
+                letter-spacing: 0.15px;
+
+                &.error {
+                    color: var(--color-error);
+                }
+            }
+
+            .error-message {
+                width: $fullWidth;
+                display: block;
+                @include font(400, 12px, var(--color-error));
+                text-align: textAligns('left');
+                letter-spacing: 0.4px;
+                margin-top: 8px;
+                opacity: 0;
+                visibility: hidden;
+            }
+        }
+
+        #btnSearchProfile {
+            @include font(500, 16, #FFFFFF);
+            letter-spacing: 0.46px;
+            text-transform: uppercase;
+            background: #6D788D;
+            box-shadow: 0px 4px 8px -4px rgba(76, 78, 100, 0.42);
+            border-radius: 8px;
+            display: block;
+            @include width-height(100%, 58px);
+        }
+    }
+
+    .search-not-found {
+        display: none;
+        width: $fullWidth;
+        text-align: textAligns('center');
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        position: absolute;
+        &-title{
+            @include font(600, 30px, #000);
+        }
+    }
+}
